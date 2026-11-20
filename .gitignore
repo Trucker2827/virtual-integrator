@@ -1,0 +1,50 @@
+# Build output
+bin/
+obj/
+out/
+dist/
+*.user
+*.suo
+*.userprefs
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Env / secrets
+.env
+.env.*
+!.env.example
+*.pfx
+*.key
+
+# Logs
+*.log
+logs/
+
+# Package managers
+node_modules/
+packages/
+*.nupkg
+
+# Legacy binaries — never commit
+*.exe
+*.dll
+*.ocx
+*.pdb
+*.vbd
+*.app
+*.fpt
+*.sub
+
+# Local database dumps
+*.bak
+*.mdf
+*.ldf
