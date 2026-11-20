@@ -50,11 +50,57 @@ Embedded raster images (PNG/JPEG/GIF) are stored inline in the object stream and
 
 Enumerated via `sys.columns` on the running SQL Server `(local)\CIRCON`. **No floor-plan or graphic storage in the DB** — site graphics live on disk under `C:\NI\` only. The only image BLOBs are user photos / signatures in the access-control tables (`access_users_images.photo`, `access_users_images.signature`).
 
+## PE resource extraction (ActiveX OCX, 44 files)
+
+Walked via `resedit` (Node). Totals across all 44 OCXs:
+
+| Resource type | Count |
+|---|---:|
+| RT_BITMAP → `.bmp` (DIB + synthesized file header) | 217 |
+| RT_GROUP_ICON → `.ico` (reassembled from RT_ICON entries) | 147 |
+| RT_GROUP_CURSOR → `.cur` | 13 |
+| RT_RCDATA (TeeChart palettes, misc) | 100 |
+| RT_STRING tables (catalogued, not extracted as files) | — |
+
+Standouts: `TeeChart5.ocx` ships 134 bitmaps + 98 RCDATA, `ccgraph.ocx` 20 bitmaps + 4 cursors, `CirconDbUI.ocx` 6 bitmaps + 29 icons, `CirconNavigate.ocx` 17 icons, `lnsui.ocx` 38 icons, `ScheduleUI.ocx` 7 icons + 6 bitmaps, `obselect.ocx` 17 icons.
+
+## Managed .NET resource extraction (vilns32/nilns32/ailns32 + Circon*.dll)
+
+Scanned the 24 copied managed assemblies for PNG/JPEG/GIF magic bytes within their embedded `.resources` streams (full BinaryResourceReader parsing deferred — magic-carve is a pragmatic MVP that recovers the pixel data):
+
+| File | Hits |
+|---|---:|
+| `vilns32.exe` | 72 PNGs (main app form toolbars, menu icons, splash) |
+| `nilns32.exe` | 39 PNGs |
+| `ailns32.exe` | 21 PNGs |
+| `AlarmView.dll` | 2 PNGs |
+| `CirconDataForms.dll` | 14 PNGs + 3 JPEGs |
+| `CirconDataLinqForms.dll` | 78 PNGs |
+| `CirconForms.dll` | 3 PNGs |
+| `CirconGfxForms.dll` | 13 PNGs |
+| `CirconLnsForms.dll` | 45 PNGs + 6 GIFs |
+| ... (rest) | ... |
+
+Total across managed: **~296 PNG + 7 GIF + 3 JPEG**.
+
+## Grand totals
+
+| Category | Count |
+|---|---:|
+| Static icons from `BIN\Images\` | 68 |
+| Carved from live site OLE docs (`.vbd`/`.app`/`.sub`) | 466 |
+| PE resource walk of OCX files (bitmaps/icons/cursors) | 377 |
+| Managed assembly `.resources` carve (PNG/GIF/JPEG) | 306 |
+| Extra OCX-level carved JPEGs | 6 |
+| **Total raster assets recovered** | **~1,223** |
+
+Plus 100 TeeChart RCDATA binaries (chart palettes — native format, kept for reference).
+
 ## What still needs doing
 
-1. **ActiveX bitmap extraction** — the 44 OCXs each have embedded icons/bitmaps in their Windows resource section. Needs a native resource walker (`wrestool`, `Resource Hacker`, or a small C# tool using `PEReader` + `ManagedPEReader`).
-2. **Managed .NET resource extraction** — `vilns32.exe` and the `Circon*.dll` assemblies have 57+ `.resources` streams. The ILSpy pass earlier dumped names only; to pull the actual bytes needs `ildasm` or a small `Mono.Cecil` tool.
-3. **OLE serialization decoder** — needed to re-render floor plans faithfully in the Avalonia UI rather than just embedding the carved raster snapshots.
-4. **Silverlight XAP XAML walk** — the two XAPs contain compiled XAML that defines the web-side page structure; pulling layout + referenced image URIs is a separate pass.
+1. **BinaryResourceReader parser** — recovers resource *names* alongside the raw bytes so we can map each extracted PNG back to its logical identifier (e.g. `toolbar_save.png` vs anonymous offset). Format is well-documented (System.Resources.ResourceReader).
+2. **OLE serialization decoder** — needed to re-render floor plans faithfully in the Avalonia UI rather than just embedding the carved raster snapshots.
+3. **Silverlight XAP XAML walk** — the two XAPs contain compiled XAML that defines the web-side page structure; pulling layout + referenced image URIs is a separate pass.
+4. **TeeChart RCDATA format** — if we need the chart cursor/palette data for faithful trend-log rendering, reverse the proprietary RCDATA format or replace with a modern charting library.
 
-These are sequenced after the current loop (CLI wiring, LonTalk APDU, Postgres migration) — none of them block app-structure progress.
+None of these block app-structure progress; they inform the UI port.
