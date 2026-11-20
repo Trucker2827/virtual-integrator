@@ -3,6 +3,7 @@
     <RootNamespace>VirtualIntegrator.Lon.OpenLdv</RootNamespace>
     <AssemblyName>VirtualIntegrator.Lon.OpenLdv</AssemblyName>
     <SupportedOSPlatformVersion>7.0</SupportedOSPlatformVersion>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
   </PropertyGroup>
   <ItemGroup>
     <ProjectReference Include="..\VirtualIntegrator.Core\VirtualIntegrator.Core.csproj" />
