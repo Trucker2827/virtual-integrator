@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>VirtualIntegrator.Lon.OpenLdv</RootNamespace>
+    <AssemblyName>VirtualIntegrator.Lon.OpenLdv</AssemblyName>
+    <SupportedOSPlatformVersion>7.0</SupportedOSPlatformVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\VirtualIntegrator.Core\VirtualIntegrator.Core.csproj" />
+  </ItemGroup>
+</Project>

@@ -10,14 +10,17 @@ Skeleton in place. `dotnet build && dotnet test` passes on Linux/macOS/Windows C
 
 ```
 src/
-  VirtualIntegrator.Core/   — domain model + abstractions (ILonChannel, LonAddress, ...)
-  VirtualIntegrator.Cli/    — `vi` CLI (System.CommandLine)
+  VirtualIntegrator.Core/         — domain model + abstractions (ILonChannel, LonAddress, ...)
+  VirtualIntegrator.Data/         — EF Core + Postgres (domains, subnets, nodes, NVs, bindings)
+  VirtualIntegrator.Lon.OpenLdv/  — Windows OpenLDV (U10/U20/U60) ILonChannel implementation
+  VirtualIntegrator.Ui/           — Avalonia desktop shell (Windows/macOS/Linux)
+  VirtualIntegrator.Cli/          — `vi` CLI (System.CommandLine)
 tests/
   VirtualIntegrator.Core.Tests/
-docs/legacy-research/       — reverse-engineering notes (XIF/DRF parser plans, LonTalk plan, etc.)
+docs/legacy-research/             — reverse-engineering notes (LonTalk plan, Phase 0 findings, etc.)
 ```
 
-Additional projects (`VirtualIntegrator.Data`, `VirtualIntegrator.Lon.OpenLdv`, `VirtualIntegrator.OpcServer`, `VirtualIntegrator.Ui`) will be added as those modules come online.
+Pending modules: `VirtualIntegrator.Lon.Ip852` (CEA-852 cross-platform transport), `VirtualIntegrator.OpcServer` (OPC XML-DA SOAP endpoint).
 
 ## Build
 
