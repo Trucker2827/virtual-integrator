@@ -1,5 +1,6 @@
 using System.Runtime.Versioning;
 using VirtualIntegrator.Core.Lon;
+using VirtualIntegrator.Core.Lon.Protocol;
 
 namespace VirtualIntegrator.Lon.OpenLdv;
 
@@ -18,13 +19,33 @@ public sealed class OpenLdvChannel : ILonChannel
     }
 
     public IAsyncEnumerable<LonAddress> ScanAsync(CancellationToken ct = default) =>
-        throw new NotImplementedException("Scan requires NM query-id broadcast — pending LonTalk layer.");
+        throw new NotImplementedException("Scan: iterate NM QueryId broadcast with response collection — pending MsgOutBuffer.Encode.");
 
-    public ValueTask<ReadOnlyMemory<byte>> ReadNvAsync(LonAddress address, int nvIndex, CancellationToken ct = default) =>
-        throw new NotImplementedException("NV fetch requires LonTalk APDU layer.");
+    public ValueTask<ReadOnlyMemory<byte>> ReadNvAsync(LonAddress address, int nvIndex, CancellationToken ct = default)
+    {
+        var msg = LonMessage.NvFetch(address, nvIndex);
+        return SendAndAwaitResponseAsync(msg, ct);
+    }
 
-    public ValueTask WriteNvAsync(LonAddress address, int nvIndex, ReadOnlyMemory<byte> value, CancellationToken ct = default) =>
-        throw new NotImplementedException("NV update requires LonTalk APDU layer.");
+    public ValueTask WriteNvAsync(LonAddress address, int nvIndex, ReadOnlyMemory<byte> value, CancellationToken ct = default)
+    {
+        var msg = LonMessage.NvUpdate(address, nvIndex, value);
+        return SendAsync(msg, ct);
+    }
+
+    private ValueTask SendAsync(LonMessage message, CancellationToken ct)
+    {
+        _ = ct;
+        var buffer = MsgOutBuffer.Encode(message);
+        OpenLdvException.ThrowIfError(
+            NativeMethods.Write(_handle, buffer, buffer.Length),
+            "ldv_write failed");
+        return ValueTask.CompletedTask;
+    }
+
+    private ValueTask<ReadOnlyMemory<byte>> SendAndAwaitResponseAsync(LonMessage message, CancellationToken ct) =>
+        throw new NotImplementedException(
+            "Request/response correlation requires MsgInBuffer parser + transaction-ID tracking — pending.");
 
     public async ValueTask DisposeAsync()
     {
