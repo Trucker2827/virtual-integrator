@@ -31,6 +31,17 @@ dotnet test
 
 Requires the .NET 8 SDK. The dev workstation holding the original Circon install is Windows 7, which cannot host the .NET 8 SDK — development happens on Windows 10+, macOS, or Linux. CI (GitHub Actions) builds on all three.
 
+## Database
+
+```
+docker compose up -d postgres
+dotnet tool install --global dotnet-ef --version 8.*
+dotnet ef migrations add Initial --project src/VirtualIntegrator.Data
+dotnet ef database update --project src/VirtualIntegrator.Data
+```
+
+See [`src/VirtualIntegrator.Data/Migrations/README.md`](src/VirtualIntegrator.Data/Migrations/README.md) for details.
+
 ## Goals
 
 - **Faithful** reproduction of the original document model, workflows, and wire-level behaviour
