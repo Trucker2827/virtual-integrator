@@ -96,11 +96,68 @@ Total across managed: **~296 PNG + 7 GIF + 3 JPEG**.
 
 Plus 100 TeeChart RCDATA binaries (chart palettes — native format, kept for reference).
 
-## What still needs doing
+## Named .NET resource extraction (BinaryResourceReader)
 
-1. **BinaryResourceReader parser** — recovers resource *names* alongside the raw bytes so we can map each extracted PNG back to its logical identifier (e.g. `toolbar_save.png` vs anonymous offset). Format is well-documented (System.Resources.ResourceReader).
-2. **OLE serialization decoder** — needed to re-render floor plans faithfully in the Avalonia UI rather than just embedding the carved raster snapshots.
-3. **Silverlight XAP XAML walk** — the two XAPs contain compiled XAML that defines the web-side page structure; pulling layout + referenced image URIs is a separate pass.
-4. **TeeChart RCDATA format** — if we need the chart cursor/palette data for faithful trend-log rendering, reverse the proprietary RCDATA format or replace with a modern charting library.
+Parsed each managed assembly for `0xBEEFCACE` resource streams, walked the name table, and dumped each entry's PNG/JPEG/GIF/BMP payload with its **logical resource name**:
 
-None of these block app-structure progress; they inform the UI port.
+| Assembly | Named extractions |
+|---|---:|
+| `vilns32.exe` | 105 (105 PNG) |
+| `nilns32.exe` | 42 (41 PNG + 1 BMP) |
+| `ailns32.exe` | 36 (20 PNG, 3 GIF, 13 BMP) |
+| `AlarmView.dll` | 2 PNG |
+| `CirconDataForms.dll` | 19 (18 PNG + 1 BMP) |
+| `CirconDataLinqForms.dll` | 92 (88 PNG + 4 BMP) |
+| `CirconForms.dll` | 7 (3 BMP + 4 PNG) |
+| `CirconGfxForms.dll` | 15 PNG |
+| `CirconLnsForms.dll` | 75 (63 PNG, 3 BMP, 9 GIF) |
+
+Total: **393** named images (356 PNG + 25 BMP + 12 GIF). Names map directly to the Windows Forms designer identifiers — e.g. `pctDoor.Image.png`, `btnViewEvents.Image.png`, `$this.Icon.png`, `imgList.ImageStream.1.png`. Entry bounds are respected so an image found inside the wrong resource (bool/enum entries that happen to be near a PNG) does not steal another entry's name.
+
+## Silverlight XAP image walk
+
+Carved PNG/JPEG/GIF from each DLL inside the two Silverlight packages:
+
+| Package | Hits |
+|---|---:|
+| `WebGraphics.xap` (operator web client) | 4 PNG across inner DLLs |
+| `CirconGfxProject.xap` (web project template) | 1 PNG |
+
+Structural XAML inside the XAPs is compiled to BAML and embedded in the DLLs; `AppManifest.xaml` is the only loose XAML file (lists assembly refs, no graphic resources).
+
+## OLE serialization — object-graph catalog
+
+Walked the `Graphics` stream of every `.vbd` / `.sub` / `.app` / `.fpt` in the Duke Realty site (79 files that have a Graphics stream; 3 don't). Scanned for all printable-ASCII runs 4–64 bytes, filtered to MFC-style class names (`C[A-Z][A-Za-z0-9]{2,}`).
+
+**Full object-class catalog** (count = how many site files use the class):
+
+| Class | Files | Role |
+|---|---:|---|
+| `CHyperFrameOb` | 79 | Hyperframe (page container) |
+| `CHyperViewOb` | 79 | Hyperframe view |
+| `CGenericOcx` | 78 | Embedded ActiveX / OCX instance |
+| `CRectOb` | 74 | Rectangle / box primitive |
+| `CBtnRteOb` | 2 | Button route |
+
+Plus 7 low-count artifacts (`CDCT`, `CLuZ`, `CSU9`, `CX2y`, `CZ9Mb4X`, `CCJWmv`, `CUnh`) that appear 1–20 times — likely encrypted/encoded blobs or false-positive ASCII runs inside binary data, not real class names.
+
+The real Circon graphic schema is therefore composed of just **5 primitive types**. A future object-graph decoder (sized for the new Avalonia UI port) only needs to handle these five + the inline bitmaps we already carved. The decoder work is tracked as app-side scope, not legacy-research scope.
+
+## Grand totals
+
+| Category | Count |
+|---|---:|
+| Static icons from `BIN\Images\` | 68 |
+| Carved from live site OLE docs | 466 |
+| PE resource walk of OCX files | 377 |
+| Named `.NET resources` (with logical names) | 393 |
+| Silverlight XAP inner-DLL carves | 5 |
+| Extra OCX-body carves | 6 |
+| **Total raster assets recovered** | **~1,315** |
+
+## Deferred
+
+- **Full OLE object-graph decoder** — recovers full floor-plan geometry (rectangles, OCX positions, bindings) so the new UI can re-render the page vector-exactly rather than embedding the carved raster snapshots. Scheduled under the Avalonia UI module, not legacy-research.
+- **TeeChart RCDATA format** — only matters if we need pixel-exact trend-log rendering using the original palettes. Likely replaced by a modern charting library in the port, so this stays unreversed.
+
+No remaining asset work blocks app-structure progress.
