@@ -1,0 +1,32 @@
+{
+  "source": "ocx/Reports.ocx",
+  "entries": [
+    {
+      "type": "BITMAP",
+      "id": "1",
+      "size": 224,
+      "file": "Reports__BITMAP_1.bmp"
+    },
+    {
+      "type": "STRING",
+      "id": "1",
+      "size": 128
+    },
+    {
+      "type": "STRING",
+      "id": "7",
+      "size": 2782
+    },
+    {
+      "type": "STRING",
+      "id": "13",
+      "size": 46
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "1",
+      "size": 34,
+      "file": "Reports__ICON_1.ico"
+    }
+  ]
+}

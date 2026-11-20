@@ -1,0 +1,45 @@
+{
+  "source": "ocx/TrendLog.ocx",
+  "entries": [
+    {
+      "type": "BITMAP",
+      "id": "1",
+      "size": 224,
+      "file": "TrendLog__BITMAP_1.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "137",
+      "size": 1256,
+      "file": "TrendLog__BITMAP_137.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "202",
+      "size": 232,
+      "file": "TrendLog__BITMAP_202.bmp"
+    },
+    {
+      "type": "STRING",
+      "id": "1",
+      "size": 108
+    },
+    {
+      "type": "STRING",
+      "id": "13",
+      "size": 46
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "1",
+      "size": 34,
+      "file": "TrendLog__ICON_1.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "203",
+      "size": 20,
+      "file": "TrendLog__ICON_203.ico"
+    }
+  ]
+}

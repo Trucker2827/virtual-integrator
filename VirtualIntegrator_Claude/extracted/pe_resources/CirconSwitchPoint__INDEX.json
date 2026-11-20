@@ -1,0 +1,32 @@
+{
+  "source": "ocx/CirconSwitchPoint.ocx",
+  "entries": [
+    {
+      "type": "BITMAP",
+      "id": "1",
+      "size": 760,
+      "file": "CirconSwitchPoint__BITMAP_1.bmp"
+    },
+    {
+      "type": "STRING",
+      "id": "1",
+      "size": 120
+    },
+    {
+      "type": "STRING",
+      "id": "13",
+      "size": 88
+    },
+    {
+      "type": "STRING",
+      "id": "3585",
+      "size": 66
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "1",
+      "size": 34,
+      "file": "CirconSwitchPoint__ICON_1.ico"
+    }
+  ]
+}

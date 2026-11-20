@@ -1,0 +1,33 @@
+{
+  "source": "ocx/Common.ocx",
+  "entries": [
+    {
+      "type": "BITMAP",
+      "id": "1",
+      "size": 224,
+      "file": "Common__BITMAP_1.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "2",
+      "size": 224,
+      "file": "Common__BITMAP_2.bmp"
+    },
+    {
+      "type": "STRING",
+      "id": "1",
+      "size": 212
+    },
+    {
+      "type": "STRING",
+      "id": "13",
+      "size": 60
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "1",
+      "size": 34,
+      "file": "Common__ICON_1.ico"
+    }
+  ]
+}

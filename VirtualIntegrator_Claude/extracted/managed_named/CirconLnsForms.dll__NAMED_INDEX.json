@@ -1,0 +1,741 @@
+{
+  "source": "managed/CirconLnsForms.dll",
+  "streams": [
+    {
+      "streamStart": 554544,
+      "numResources": 0
+    },
+    {
+      "streamStart": 554728,
+      "numResources": 0
+    },
+    {
+      "streamStart": 554912,
+      "numResources": 1
+    },
+    {
+      "streamStart": 557552,
+      "numResources": 1
+    },
+    {
+      "streamStart": 558408,
+      "numResources": 0
+    },
+    {
+      "streamStart": 558592,
+      "numResources": 0
+    },
+    {
+      "streamStart": 558776,
+      "numResources": 1
+    },
+    {
+      "streamStart": 559920,
+      "numResources": 1
+    },
+    {
+      "streamStart": 562440,
+      "numResources": 1
+    },
+    {
+      "streamStart": 564960,
+      "numResources": 1
+    },
+    {
+      "streamStart": 565800,
+      "numResources": 0
+    },
+    {
+      "streamStart": 565984,
+      "numResources": 3
+    },
+    {
+      "streamStart": 719008,
+      "numResources": 3
+    },
+    {
+      "streamStart": 872032,
+      "numResources": 0
+    },
+    {
+      "streamStart": 872216,
+      "numResources": 0
+    },
+    {
+      "streamStart": 872400,
+      "numResources": 0
+    },
+    {
+      "streamStart": 872584,
+      "numResources": 0
+    },
+    {
+      "streamStart": 872768,
+      "numResources": 1
+    },
+    {
+      "streamStart": 876200,
+      "numResources": 1
+    },
+    {
+      "streamStart": 879216,
+      "numResources": 3
+    },
+    {
+      "streamStart": 884696,
+      "numResources": 0
+    },
+    {
+      "streamStart": 884880,
+      "numResources": 1
+    },
+    {
+      "streamStart": 888488,
+      "numResources": 14
+    },
+    {
+      "streamStart": 899776,
+      "numResources": 3
+    },
+    {
+      "streamStart": 905312,
+      "numResources": 1
+    },
+    {
+      "streamStart": 908600,
+      "numResources": 0
+    },
+    {
+      "streamStart": 908784,
+      "numResources": 1
+    },
+    {
+      "streamStart": 912512,
+      "numResources": 1
+    },
+    {
+      "streamStart": 915800,
+      "numResources": 23
+    },
+    {
+      "streamStart": 922520,
+      "numResources": 7
+    },
+    {
+      "streamStart": 926768,
+      "numResources": 0
+    },
+    {
+      "streamStart": 926952,
+      "numResources": 3
+    },
+    {
+      "streamStart": 930880,
+      "numResources": 0
+    },
+    {
+      "streamStart": 931064,
+      "numResources": 0
+    },
+    {
+      "streamStart": 931248,
+      "numResources": 2
+    },
+    {
+      "streamStart": 937808,
+      "numResources": 23
+    },
+    {
+      "streamStart": 943888,
+      "numResources": 1
+    },
+    {
+      "streamStart": 947320,
+      "numResources": 3
+    },
+    {
+      "streamStart": 948920,
+      "numResources": 1
+    },
+    {
+      "streamStart": 949856,
+      "numResources": 1
+    },
+    {
+      "streamStart": 950720,
+      "numResources": 1
+    },
+    {
+      "streamStart": 953456,
+      "numResources": 1
+    },
+    {
+      "streamStart": 955984,
+      "numResources": 1
+    },
+    {
+      "streamStart": 958720,
+      "numResources": 1
+    },
+    {
+      "streamStart": 961248,
+      "numResources": 1
+    },
+    {
+      "streamStart": 962224,
+      "numResources": 1
+    },
+    {
+      "streamStart": 963040,
+      "numResources": 1
+    },
+    {
+      "streamStart": 963976,
+      "numResources": 1
+    },
+    {
+      "streamStart": 964768,
+      "numResources": 1
+    },
+    {
+      "streamStart": 965528,
+      "numResources": 1
+    },
+    {
+      "streamStart": 966376,
+      "numResources": 1
+    },
+    {
+      "streamStart": 967328,
+      "numResources": 17
+    },
+    {
+      "streamStart": 971816,
+      "numResources": 2
+    },
+    {
+      "streamStart": 972928,
+      "numResources": 1
+    },
+    {
+      "streamStart": 976656,
+      "numResources": 0
+    },
+    {
+      "streamStart": 976840,
+      "numResources": 0
+    },
+    {
+      "streamStart": 977024,
+      "numResources": 0
+    },
+    {
+      "streamStart": 977208,
+      "numResources": 0
+    },
+    {
+      "streamStart": 977392,
+      "numResources": 2
+    },
+    {
+      "streamStart": 978768,
+      "numResources": 0
+    },
+    {
+      "streamStart": 978952,
+      "numResources": 0
+    },
+    {
+      "streamStart": 979136,
+      "numResources": 1
+    },
+    {
+      "streamStart": 979880,
+      "numResources": 10
+    },
+    {
+      "streamStart": 982712,
+      "numResources": 3
+    },
+    {
+      "streamStart": 988248,
+      "numResources": 1
+    },
+    {
+      "streamStart": 989344,
+      "numResources": 1
+    },
+    {
+      "streamStart": 990440,
+      "numResources": 1
+    },
+    {
+      "streamStart": 991288,
+      "numResources": 1
+    },
+    {
+      "streamStart": 992936,
+      "numResources": 2
+    },
+    {
+      "streamStart": 995352,
+      "numResources": 4
+    },
+    {
+      "streamStart": 999920,
+      "numResources": 1
+    }
+  ],
+  "extracted": [
+    {
+      "name": "pictureBox1.Image",
+      "file": "CirconLnsForms.dll__pictureBox1.Image.png",
+      "size": 2137,
+      "ext": "png"
+    },
+    {
+      "name": "pctIcon.Image",
+      "file": "CirconLnsForms.dll__pctIcon.Image.png",
+      "size": 360,
+      "ext": "png"
+    },
+    {
+      "name": "imageList.ImageStream",
+      "file": "CirconLnsForms.dll__imageList.ImageStream.png",
+      "size": 345,
+      "ext": "png"
+    },
+    {
+      "name": "imgList.ImageStream",
+      "file": "CirconLnsForms.dll__imgList.ImageStream.png",
+      "size": 345,
+      "ext": "png"
+    },
+    {
+      "name": "imgList.ImageStream",
+      "file": "CirconLnsForms.dll__imgList.ImageStream.1.png",
+      "size": 345,
+      "ext": "png"
+    },
+    {
+      "name": "pctIcon.Image",
+      "file": "CirconLnsForms.dll__pctIcon.Image.1.png",
+      "size": 345,
+      "ext": "png"
+    },
+    {
+      "name": "wizard.BannerImage",
+      "file": "CirconLnsForms.dll__wizard.BannerImage.png",
+      "size": 992,
+      "ext": "png"
+    },
+    {
+      "name": "wizard.MarginImage",
+      "file": "CirconLnsForms.dll__wizard.MarginImage.bmp",
+      "size": 435637,
+      "ext": "bmp"
+    },
+    {
+      "name": "wizard.BannerImage",
+      "file": "CirconLnsForms.dll__wizard.BannerImage.1.png",
+      "size": 992,
+      "ext": "png"
+    },
+    {
+      "name": "wizard.MarginImage",
+      "file": "CirconLnsForms.dll__wizard.MarginImage.1.bmp",
+      "size": 282613,
+      "ext": "bmp"
+    },
+    {
+      "name": "imgList.ImageStream",
+      "file": "CirconLnsForms.dll__imgList.ImageStream.gif",
+      "size": 1083,
+      "ext": "gif"
+    },
+    {
+      "name": "imgList.ImageStream",
+      "file": "CirconLnsForms.dll__imgList.ImageStream.1.gif",
+      "size": 1083,
+      "ext": "gif"
+    },
+    {
+      "name": "wizard.BannerImage",
+      "file": "CirconLnsForms.dll__wizard.BannerImage.gif",
+      "size": 1083,
+      "ext": "gif"
+    },
+    {
+      "name": "wizard.MarginImage",
+      "file": "CirconLnsForms.dll__wizard.MarginImage.gif",
+      "size": 2967,
+      "ext": "gif"
+    },
+    {
+      "name": "imgList.ImageStream",
+      "file": "CirconLnsForms.dll__imgList.ImageStream.2.png",
+      "size": 345,
+      "ext": "png"
+    },
+    {
+      "name": "mnuNetworkVariableDelete.Image",
+      "file": "CirconLnsForms.dll__mnuNetworkVariableDelete.Image.png",
+      "size": 239,
+      "ext": "png"
+    },
+    {
+      "name": "mnuNetworkVariableProperties.Image",
+      "file": "CirconLnsForms.dll__mnuNetworkVariableProperties.Image.png",
+      "size": 648,
+      "ext": "png"
+    },
+    {
+      "name": "mnuNetworkVariableInspect.Image",
+      "file": "CirconLnsForms.dll__mnuNetworkVariableInspect.Image.png",
+      "size": 209,
+      "ext": "png"
+    },
+    {
+      "name": "mnuLonMarkObjectPaste.Image",
+      "file": "CirconLnsForms.dll__mnuLonMarkObjectPaste.Image.png",
+      "size": 745,
+      "ext": "png"
+    },
+    {
+      "name": "mnuNetworkVariableInspectCp.Image",
+      "file": "CirconLnsForms.dll__mnuNetworkVariableInspectCp.Image.png",
+      "size": 218,
+      "ext": "png"
+    },
+    {
+      "name": "mnuLonMarkObjectDeallocate.Image",
+      "file": "CirconLnsForms.dll__mnuLonMarkObjectDeallocate.Image.png",
+      "size": 359,
+      "ext": "png"
+    },
+    {
+      "name": "mnuLonMarkObjectProperties.Image",
+      "file": "CirconLnsForms.dll__mnuLonMarkObjectProperties.Image.png",
+      "size": 648,
+      "ext": "png"
+    },
+    {
+      "name": "mnuLonMarkObjectCopy.Image",
+      "file": "CirconLnsForms.dll__mnuLonMarkObjectCopy.Image.png",
+      "size": 647,
+      "ext": "png"
+    },
+    {
+      "name": "mnuNetworkVariableInspectNv.Image",
+      "file": "CirconLnsForms.dll__mnuNetworkVariableInspectNv.Image.png",
+      "size": 149,
+      "ext": "png"
+    },
+    {
+      "name": "mnuLonMarkObjectInspectCp.Image",
+      "file": "CirconLnsForms.dll__mnuLonMarkObjectInspectCp.Image.png",
+      "size": 218,
+      "ext": "png"
+    },
+    {
+      "name": "mnuLonMarkObjectInspectNv.Image",
+      "file": "CirconLnsForms.dll__mnuLonMarkObjectInspectNv.Image.png",
+      "size": 149,
+      "ext": "png"
+    },
+    {
+      "name": "mnuLonMarkObjectAllocate.Image",
+      "file": "CirconLnsForms.dll__mnuLonMarkObjectAllocate.Image.png",
+      "size": 345,
+      "ext": "png"
+    },
+    {
+      "name": "mnuLonMarkObjectInspect.Image",
+      "file": "CirconLnsForms.dll__mnuLonMarkObjectInspect.Image.png",
+      "size": 209,
+      "ext": "png"
+    },
+    {
+      "name": "wizard.BannerImage",
+      "file": "CirconLnsForms.dll__wizard.BannerImage.1.gif",
+      "size": 1140,
+      "ext": "gif"
+    },
+    {
+      "name": "wizard.MarginImage",
+      "file": "CirconLnsForms.dll__wizard.MarginImage.1.gif",
+      "size": 2967,
+      "ext": "gif"
+    },
+    {
+      "name": "imgList.ImageStream",
+      "file": "CirconLnsForms.dll__imgList.ImageStream.3.png",
+      "size": 365,
+      "ext": "png"
+    },
+    {
+      "name": "imgList.ImageStream",
+      "file": "CirconLnsForms.dll__imgList.ImageStream.4.png",
+      "size": 365,
+      "ext": "png"
+    },
+    {
+      "name": "imgList.ImageStream",
+      "file": "CirconLnsForms.dll__imgList.ImageStream.5.png",
+      "size": 365,
+      "ext": "png"
+    },
+    {
+      "name": "tvwLnsObjects.Modifiers",
+      "file": "CirconLnsForms.dll__tvwLnsObjects.Modifiers.png",
+      "size": 365,
+      "ext": "png"
+    },
+    {
+      "name": "imgList.Modifiers",
+      "file": "CirconLnsForms.dll__imgList.Modifiers.png",
+      "size": 365,
+      "ext": "png"
+    },
+    {
+      "name": "pctNvInput.Image",
+      "file": "CirconLnsForms.dll__pctNvInput.Image.png",
+      "size": 365,
+      "ext": "png"
+    },
+    {
+      "name": "pctNvOutput.Image",
+      "file": "CirconLnsForms.dll__pctNvOutput.Image.png",
+      "size": 214,
+      "ext": "png"
+    },
+    {
+      "name": "pctIcon.Image",
+      "file": "CirconLnsForms.dll__pctIcon.Image.2.png",
+      "size": 3730,
+      "ext": "png"
+    },
+    {
+      "name": "tvwLnsObjects.Modifiers",
+      "file": "CirconLnsForms.dll__tvwLnsObjects.Modifiers.1.png",
+      "size": 155,
+      "ext": "png"
+    },
+    {
+      "name": "imgList.ImageStream",
+      "file": "CirconLnsForms.dll__imgList.ImageStream.6.png",
+      "size": 155,
+      "ext": "png"
+    },
+    {
+      "name": "btnLowerPermission.Image",
+      "file": "CirconLnsForms.dll__btnLowerPermission.Image.png",
+      "size": 155,
+      "ext": "png"
+    },
+    {
+      "name": "btnRaisePermission.Image",
+      "file": "CirconLnsForms.dll__btnRaisePermission.Image.png",
+      "size": 159,
+      "ext": "png"
+    },
+    {
+      "name": "pctIcon.Image",
+      "file": "CirconLnsForms.dll__pctIcon.Image.3.png",
+      "size": 347,
+      "ext": "png"
+    },
+    {
+      "name": "pctIcon.Image",
+      "file": "CirconLnsForms.dll__pctIcon.Image.4.png",
+      "size": 442,
+      "ext": "png"
+    },
+    {
+      "name": "pctIcon.Image",
+      "file": "CirconLnsForms.dll__pctIcon.Image.5.png",
+      "size": 372,
+      "ext": "png"
+    },
+    {
+      "name": "imageList.ImageStream",
+      "file": "CirconLnsForms.dll__imageList.ImageStream.1.png",
+      "size": 483,
+      "ext": "png"
+    },
+    {
+      "name": "imageList.ImageStream",
+      "file": "CirconLnsForms.dll__imageList.ImageStream.2.png",
+      "size": 483,
+      "ext": "png"
+    },
+    {
+      "name": "imageList.ImageStream",
+      "file": "CirconLnsForms.dll__imageList.ImageStream.3.png",
+      "size": 483,
+      "ext": "png"
+    },
+    {
+      "name": "imageList.ImageStream",
+      "file": "CirconLnsForms.dll__imageList.ImageStream.4.png",
+      "size": 483,
+      "ext": "png"
+    },
+    {
+      "name": "pctIcon.Image",
+      "file": "CirconLnsForms.dll__pctIcon.Image.6.png",
+      "size": 483,
+      "ext": "png"
+    },
+    {
+      "name": "pctIcon.Image",
+      "file": "CirconLnsForms.dll__pctIcon.Image.7.png",
+      "size": 324,
+      "ext": "png"
+    },
+    {
+      "name": "pctIcon.Image",
+      "file": "CirconLnsForms.dll__pctIcon.Image.8.png",
+      "size": 442,
+      "ext": "png"
+    },
+    {
+      "name": "pctIcon.Image",
+      "file": "CirconLnsForms.dll__pctIcon.Image.9.png",
+      "size": 299,
+      "ext": "png"
+    },
+    {
+      "name": "pctIcon.Image",
+      "file": "CirconLnsForms.dll__pctIcon.Image.10.png",
+      "size": 269,
+      "ext": "png"
+    },
+    {
+      "name": "pctIcon.Image",
+      "file": "CirconLnsForms.dll__pctIcon.Image.11.png",
+      "size": 356,
+      "ext": "png"
+    },
+    {
+      "name": "pctIcon.Image",
+      "file": "CirconLnsForms.dll__pctIcon.Image.12.png",
+      "size": 462,
+      "ext": "png"
+    },
+    {
+      "name": "lcaObjectServer.OcxState",
+      "file": "CirconLnsForms.dll__lcaObjectServer.OcxState.png",
+      "size": 203,
+      "ext": "png"
+    },
+    {
+      "name": "pctNvInput.Image",
+      "file": "CirconLnsForms.dll__pctNvInput.Image.1.png",
+      "size": 203,
+      "ext": "png"
+    },
+    {
+      "name": "pctNvOutput.Image",
+      "file": "CirconLnsForms.dll__pctNvOutput.Image.1.png",
+      "size": 201,
+      "ext": "png"
+    },
+    {
+      "name": "imgList.ImageStream",
+      "file": "CirconLnsForms.dll__imgList.ImageStream.7.png",
+      "size": 374,
+      "ext": "png"
+    },
+    {
+      "name": "pictureBox1.Image",
+      "file": "CirconLnsForms.dll__pictureBox1.Image.1.png",
+      "size": 299,
+      "ext": "png"
+    },
+    {
+      "name": "pctIcon.Image",
+      "file": "CirconLnsForms.dll__pctIcon.Image.13.png",
+      "size": 374,
+      "ext": "png"
+    },
+    {
+      "name": "pctIcon.Image",
+      "file": "CirconLnsForms.dll__pctIcon.Image.14.png",
+      "size": 253,
+      "ext": "png"
+    },
+    {
+      "name": "mnuContext.Modifiers",
+      "file": "CirconLnsForms.dll__mnuContext.Modifiers.gif",
+      "size": 1140,
+      "ext": "gif"
+    },
+    {
+      "name": "wizard.BannerImage",
+      "file": "CirconLnsForms.dll__wizard.BannerImage.2.gif",
+      "size": 1140,
+      "ext": "gif"
+    },
+    {
+      "name": "wizard.MarginImage",
+      "file": "CirconLnsForms.dll__wizard.MarginImage.2.gif",
+      "size": 2967,
+      "ext": "gif"
+    },
+    {
+      "name": "pctServer.Image",
+      "file": "CirconLnsForms.dll__pctServer.Image.png",
+      "size": 595,
+      "ext": "png"
+    },
+    {
+      "name": "pctServer.Image",
+      "file": "CirconLnsForms.dll__pctServer.Image.1.png",
+      "size": 595,
+      "ext": "png"
+    },
+    {
+      "name": "pctServer.Image",
+      "file": "CirconLnsForms.dll__pctServer.Image.2.png",
+      "size": 352,
+      "ext": "png"
+    },
+    {
+      "name": "$this.Icon",
+      "file": "CirconLnsForms.dll__$this.Icon.png",
+      "size": 661,
+      "ext": "png"
+    },
+    {
+      "name": "PropertiesHS",
+      "file": "CirconLnsForms.dll__PropertiesHS.bmp",
+      "size": 9768,
+      "ext": "bmp"
+    },
+    {
+      "name": "Copy",
+      "file": "CirconLnsForms.dll__Copy.png",
+      "size": 661,
+      "ext": "png"
+    },
+    {
+      "name": "mnuNetworkProperties.Image",
+      "file": "CirconLnsForms.dll__mnuNetworkProperties.Image.png",
+      "size": 661,
+      "ext": "png"
+    },
+    {
+      "name": "mnuNetworkDelete.Image",
+      "file": "CirconLnsForms.dll__mnuNetworkDelete.Image.png",
+      "size": 252,
+      "ext": "png"
+    },
+    {
+      "name": "mnuNetworkBackup.Image",
+      "file": "CirconLnsForms.dll__mnuNetworkBackup.Image.png",
+      "size": 365,
+      "ext": "png"
+    }
+  ]
+}

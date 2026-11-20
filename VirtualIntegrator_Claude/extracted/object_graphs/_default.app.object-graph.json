@@ -1,0 +1,22 @@
+{
+  "source": "site_data/Duke Realty/Building 1835/vi/HVAC Units/Rooftop Unit 3 (Floor 3)/_default.app",
+  "graphicsStreamSize": 812,
+  "totalStrings": 11,
+  "classCount": 3,
+  "deviceIdCount": 0,
+  "classes": [
+    "CGenericOcx",
+    "CHyperFrameOb",
+    "CHyperViewOb"
+  ],
+  "deviceIds": [],
+  "labels": [
+    "Click",
+    "Inspector",
+    "Inspector1",
+    "LnsBrowser Control",
+    "MS Sans Serif",
+    "MS Shell Dlg",
+    "Static Text"
+  ]
+}

@@ -1,0 +1,861 @@
+{
+  "source": "managed/vilns32.exe",
+  "streams": [
+    {
+      "streamStart": 383160,
+      "numResources": 1
+    },
+    {
+      "streamStart": 383744,
+      "numResources": 1
+    },
+    {
+      "streamStart": 384520,
+      "numResources": 1
+    },
+    {
+      "streamStart": 385088,
+      "numResources": 1
+    },
+    {
+      "streamStart": 387608,
+      "numResources": 1
+    },
+    {
+      "streamStart": 388232,
+      "numResources": 0
+    },
+    {
+      "streamStart": 388416,
+      "numResources": 0
+    },
+    {
+      "streamStart": 388600,
+      "numResources": 1
+    },
+    {
+      "streamStart": 389168,
+      "numResources": 1
+    },
+    {
+      "streamStart": 390312,
+      "numResources": 1
+    },
+    {
+      "streamStart": 390880,
+      "numResources": 1
+    },
+    {
+      "streamStart": 391448,
+      "numResources": 1
+    },
+    {
+      "streamStart": 393968,
+      "numResources": 1
+    },
+    {
+      "streamStart": 394536,
+      "numResources": 1
+    },
+    {
+      "streamStart": 397056,
+      "numResources": 1
+    },
+    {
+      "streamStart": 399576,
+      "numResources": 0
+    },
+    {
+      "streamStart": 399760,
+      "numResources": 1
+    },
+    {
+      "streamStart": 402448,
+      "numResources": 0
+    },
+    {
+      "streamStart": 402632,
+      "numResources": 0
+    },
+    {
+      "streamStart": 402816,
+      "numResources": 0
+    },
+    {
+      "streamStart": 403000,
+      "numResources": 0
+    },
+    {
+      "streamStart": 403184,
+      "numResources": 1
+    },
+    {
+      "streamStart": 403888,
+      "numResources": 1
+    },
+    {
+      "streamStart": 406832,
+      "numResources": 1
+    },
+    {
+      "streamStart": 407976,
+      "numResources": 0
+    },
+    {
+      "streamStart": 408160,
+      "numResources": 0
+    },
+    {
+      "streamStart": 408344,
+      "numResources": 1
+    },
+    {
+      "streamStart": 408968,
+      "numResources": 1
+    },
+    {
+      "streamStart": 409592,
+      "numResources": 1
+    },
+    {
+      "streamStart": 410176,
+      "numResources": 1
+    },
+    {
+      "streamStart": 410744,
+      "numResources": 0
+    },
+    {
+      "streamStart": 410928,
+      "numResources": 1
+    },
+    {
+      "streamStart": 411704,
+      "numResources": 1
+    },
+    {
+      "streamStart": 412272,
+      "numResources": 0
+    },
+    {
+      "streamStart": 412456,
+      "numResources": 0
+    },
+    {
+      "streamStart": 412640,
+      "numResources": 1
+    },
+    {
+      "streamStart": 413208,
+      "numResources": 2
+    },
+    {
+      "streamStart": 414096,
+      "numResources": 0
+    },
+    {
+      "streamStart": 414280,
+      "numResources": 1
+    },
+    {
+      "streamStart": 414864,
+      "numResources": 0
+    },
+    {
+      "streamStart": 415048,
+      "numResources": 2
+    },
+    {
+      "streamStart": 415936,
+      "numResources": 63
+    },
+    {
+      "streamStart": 458040,
+      "numResources": 16
+    },
+    {
+      "streamStart": 471920,
+      "numResources": 2
+    },
+    {
+      "streamStart": 472768,
+      "numResources": 1
+    },
+    {
+      "streamStart": 473336,
+      "numResources": 1
+    },
+    {
+      "streamStart": 475864,
+      "numResources": 1
+    },
+    {
+      "streamStart": 478384,
+      "numResources": 1
+    },
+    {
+      "streamStart": 480904,
+      "numResources": 0
+    },
+    {
+      "streamStart": 481088,
+      "numResources": 0
+    },
+    {
+      "streamStart": 481272,
+      "numResources": 1
+    },
+    {
+      "streamStart": 484352,
+      "numResources": 12
+    },
+    {
+      "streamStart": 655576,
+      "numResources": 0
+    },
+    {
+      "streamStart": 655760,
+      "numResources": 0
+    },
+    {
+      "streamStart": 655944,
+      "numResources": 0
+    },
+    {
+      "streamStart": 656128,
+      "numResources": 1
+    }
+  ],
+  "extracted": [
+    {
+      "name": "axCirconReport.OcxState",
+      "file": "vilns32.exe__axCirconReport.OcxState.png",
+      "size": 273,
+      "ext": "png"
+    },
+    {
+      "name": "axLnsBrowser.OcxState",
+      "file": "vilns32.exe__axLnsBrowser.OcxState.png",
+      "size": 273,
+      "ext": "png"
+    },
+    {
+      "name": "axGraphic.OcxState",
+      "file": "vilns32.exe__axGraphic.OcxState.png",
+      "size": 273,
+      "ext": "png"
+    },
+    {
+      "name": "imgList.ImageStream",
+      "file": "vilns32.exe__imgList.ImageStream.png",
+      "size": 273,
+      "ext": "png"
+    },
+    {
+      "name": "axLnsNavigator.OcxState",
+      "file": "vilns32.exe__axLnsNavigator.OcxState.png",
+      "size": 273,
+      "ext": "png"
+    },
+    {
+      "name": "axGraphic.OcxState",
+      "file": "vilns32.exe__axGraphic.OcxState.1.png",
+      "size": 273,
+      "ext": "png"
+    },
+    {
+      "name": "imageList.ImageStream",
+      "file": "vilns32.exe__imageList.ImageStream.png",
+      "size": 273,
+      "ext": "png"
+    },
+    {
+      "name": "axGraphic.OcxState",
+      "file": "vilns32.exe__axGraphic.OcxState.2.png",
+      "size": 273,
+      "ext": "png"
+    },
+    {
+      "name": "axGraphic.OcxState",
+      "file": "vilns32.exe__axGraphic.OcxState.3.png",
+      "size": 273,
+      "ext": "png"
+    },
+    {
+      "name": "imgList.ImageStream",
+      "file": "vilns32.exe__imgList.ImageStream.1.png",
+      "size": 273,
+      "ext": "png"
+    },
+    {
+      "name": "axGraphic.OcxState",
+      "file": "vilns32.exe__axGraphic.OcxState.4.png",
+      "size": 273,
+      "ext": "png"
+    },
+    {
+      "name": "imgList.ImageStream",
+      "file": "vilns32.exe__imgList.ImageStream.2.png",
+      "size": 273,
+      "ext": "png"
+    },
+    {
+      "name": "imgList.ImageStream",
+      "file": "vilns32.exe__imgList.ImageStream.3.png",
+      "size": 273,
+      "ext": "png"
+    },
+    {
+      "name": "imageList.ImageStream",
+      "file": "vilns32.exe__imageList.ImageStream.1.png",
+      "size": 273,
+      "ext": "png"
+    },
+    {
+      "name": "axTChart.OcxState",
+      "file": "vilns32.exe__axTChart.OcxState.png",
+      "size": 273,
+      "ext": "png"
+    },
+    {
+      "name": "imageList.ImageStream",
+      "file": "vilns32.exe__imageList.ImageStream.2.png",
+      "size": 273,
+      "ext": "png"
+    },
+    {
+      "name": "imageList.ImageStream",
+      "file": "vilns32.exe__imageList.ImageStream.3.png",
+      "size": 273,
+      "ext": "png"
+    },
+    {
+      "name": "axLnsNavigator.OcxState",
+      "file": "vilns32.exe__axLnsNavigator.OcxState.1.png",
+      "size": 273,
+      "ext": "png"
+    },
+    {
+      "name": "axLnsNavigator.OcxState",
+      "file": "vilns32.exe__axLnsNavigator.OcxState.2.png",
+      "size": 273,
+      "ext": "png"
+    },
+    {
+      "name": "axEventLog.OcxState",
+      "file": "vilns32.exe__axEventLog.OcxState.png",
+      "size": 273,
+      "ext": "png"
+    },
+    {
+      "name": "axGraphic.OcxState",
+      "file": "vilns32.exe__axGraphic.OcxState.5.png",
+      "size": 273,
+      "ext": "png"
+    },
+    {
+      "name": "axLnsBrowser.OcxState",
+      "file": "vilns32.exe__axLnsBrowser.OcxState.1.png",
+      "size": 273,
+      "ext": "png"
+    },
+    {
+      "name": "axGraphic.OcxState",
+      "file": "vilns32.exe__axGraphic.OcxState.6.png",
+      "size": 273,
+      "ext": "png"
+    },
+    {
+      "name": "axGraphic.OcxState",
+      "file": "vilns32.exe__axGraphic.OcxState.7.png",
+      "size": 273,
+      "ext": "png"
+    },
+    {
+      "name": "siteList.OcxState",
+      "file": "vilns32.exe__siteList.OcxState.png",
+      "size": 273,
+      "ext": "png"
+    },
+    {
+      "name": "axTrendLog.OcxState",
+      "file": "vilns32.exe__axTrendLog.OcxState.png",
+      "size": 273,
+      "ext": "png"
+    },
+    {
+      "name": "siteList.OcxState",
+      "file": "vilns32.exe__siteList.OcxState.1.png",
+      "size": 273,
+      "ext": "png"
+    },
+    {
+      "name": "tbbDelete.Image",
+      "file": "vilns32.exe__tbbDelete.Image.png",
+      "size": 252,
+      "ext": "png"
+    },
+    {
+      "name": "statusDisconnect.Image",
+      "file": "vilns32.exe__statusDisconnect.Image.png",
+      "size": 263,
+      "ext": "png"
+    },
+    {
+      "name": "mnuLogViewer.Image",
+      "file": "vilns32.exe__mnuLogViewer.Image.png",
+      "size": 266,
+      "ext": "png"
+    },
+    {
+      "name": "mnuFilePrint.Image",
+      "file": "vilns32.exe__mnuFilePrint.Image.png",
+      "size": 683,
+      "ext": "png"
+    },
+    {
+      "name": "mnuBrowserClear.Image",
+      "file": "vilns32.exe__mnuBrowserClear.Image.png",
+      "size": 255,
+      "ext": "png"
+    },
+    {
+      "name": "mnuHelpContents.Image",
+      "file": "vilns32.exe__mnuHelpContents.Image.png",
+      "size": 669,
+      "ext": "png"
+    },
+    {
+      "name": "tbbAccessIntegrator.Image",
+      "file": "vilns32.exe__tbbAccessIntegrator.Image.png",
+      "size": 653,
+      "ext": "png"
+    },
+    {
+      "name": "tbbRefreshDocument.Image",
+      "file": "vilns32.exe__tbbRefreshDocument.Image.png",
+      "size": 448,
+      "ext": "png"
+    },
+    {
+      "name": "mnuFileNewDocument.Image",
+      "file": "vilns32.exe__mnuFileNewDocument.Image.png",
+      "size": 271,
+      "ext": "png"
+    },
+    {
+      "name": "mnuFileProperties.Image",
+      "file": "vilns32.exe__mnuFileProperties.Image.png",
+      "size": 661,
+      "ext": "png"
+    },
+    {
+      "name": "tbbCloseSite.Image",
+      "file": "vilns32.exe__tbbCloseSite.Image.png",
+      "size": 842,
+      "ext": "png"
+    },
+    {
+      "name": "mnuToolsNetworkScheduler.Image",
+      "file": "vilns32.exe__mnuToolsNetworkScheduler.Image.png",
+      "size": 770,
+      "ext": "png"
+    },
+    {
+      "name": "mnuNetworkEditor.Image",
+      "file": "vilns32.exe__mnuNetworkEditor.Image.png",
+      "size": 253,
+      "ext": "png"
+    },
+    {
+      "name": "mnuFileDelete.Image",
+      "file": "vilns32.exe__mnuFileDelete.Image.png",
+      "size": 252,
+      "ext": "png"
+    },
+    {
+      "name": "mnuEditCopy.Image",
+      "file": "vilns32.exe__mnuEditCopy.Image.png",
+      "size": 614,
+      "ext": "png"
+    },
+    {
+      "name": "tbbNetworkScheduler.Image",
+      "file": "vilns32.exe__tbbNetworkScheduler.Image.png",
+      "size": 752,
+      "ext": "png"
+    },
+    {
+      "name": "mnuAccessIntegrator.Image",
+      "file": "vilns32.exe__mnuAccessIntegrator.Image.png",
+      "size": 653,
+      "ext": "png"
+    },
+    {
+      "name": "tbbGoForward.Image",
+      "file": "vilns32.exe__tbbGoForward.Image.png",
+      "size": 705,
+      "ext": "png"
+    },
+    {
+      "name": "mnuToolsTaskScheduler.Image",
+      "file": "vilns32.exe__mnuToolsTaskScheduler.Image.png",
+      "size": 565,
+      "ext": "png"
+    },
+    {
+      "name": "mnuEditPaste.Image",
+      "file": "vilns32.exe__mnuEditPaste.Image.png",
+      "size": 724,
+      "ext": "png"
+    },
+    {
+      "name": "mnuHelpLicense.Image",
+      "file": "vilns32.exe__mnuHelpLicense.Image.png",
+      "size": 693,
+      "ext": "png"
+    },
+    {
+      "name": "statusConnect.Image",
+      "file": "vilns32.exe__statusConnect.Image.png",
+      "size": 253,
+      "ext": "png"
+    },
+    {
+      "name": "mnuViewRefresh.Image",
+      "file": "vilns32.exe__mnuViewRefresh.Image.png",
+      "size": 474,
+      "ext": "png"
+    },
+    {
+      "name": "tbbServiceManager.Image",
+      "file": "vilns32.exe__tbbServiceManager.Image.png",
+      "size": 369,
+      "ext": "png"
+    },
+    {
+      "name": "tbbScheduleView.Image",
+      "file": "vilns32.exe__tbbScheduleView.Image.png",
+      "size": 222,
+      "ext": "png"
+    },
+    {
+      "name": "dockDocuments.TabImage",
+      "file": "vilns32.exe__dockDocuments.TabImage.png",
+      "size": 273,
+      "ext": "png"
+    },
+    {
+      "name": "mnuFileEdit.Image",
+      "file": "vilns32.exe__mnuFileEdit.Image.png",
+      "size": 258,
+      "ext": "png"
+    },
+    {
+      "name": "tbbPaste.Image",
+      "file": "vilns32.exe__tbbPaste.Image.png",
+      "size": 724,
+      "ext": "png"
+    },
+    {
+      "name": "toolStripSeparator13.GenerateMember",
+      "file": "vilns32.exe__toolStripSeparator13.GenerateMember.png",
+      "size": 252,
+      "ext": "png"
+    },
+    {
+      "name": "tbbGoBack.Image",
+      "file": "vilns32.exe__tbbGoBack.Image.png",
+      "size": 731,
+      "ext": "png"
+    },
+    {
+      "name": "tbbCut.Image",
+      "file": "vilns32.exe__tbbCut.Image.png",
+      "size": 517,
+      "ext": "png"
+    },
+    {
+      "name": "tbbScheduleSync.Image",
+      "file": "vilns32.exe__tbbScheduleSync.Image.png",
+      "size": 253,
+      "ext": "png"
+    },
+    {
+      "name": "mnuServiceManager.Image",
+      "file": "vilns32.exe__mnuServiceManager.Image.png",
+      "size": 369,
+      "ext": "png"
+    },
+    {
+      "name": "tbbBrowserClear.Image",
+      "file": "vilns32.exe__tbbBrowserClear.Image.png",
+      "size": 255,
+      "ext": "png"
+    },
+    {
+      "name": "tbbLogViewer.Image",
+      "file": "vilns32.exe__tbbLogViewer.Image.png",
+      "size": 266,
+      "ext": "png"
+    },
+    {
+      "name": "tbbNewDocument.Image",
+      "file": "vilns32.exe__tbbNewDocument.Image.png",
+      "size": 271,
+      "ext": "png"
+    },
+    {
+      "name": "mnuToolsSiteManagement.Image",
+      "file": "vilns32.exe__mnuToolsSiteManagement.Image.png",
+      "size": 280,
+      "ext": "png"
+    },
+    {
+      "name": "tbbPrint.Image",
+      "file": "vilns32.exe__tbbPrint.Image.png",
+      "size": 683,
+      "ext": "png"
+    },
+    {
+      "name": "tbbProperties.Image",
+      "file": "vilns32.exe__tbbProperties.Image.png",
+      "size": 646,
+      "ext": "png"
+    },
+    {
+      "name": "tbbCopy.Image",
+      "file": "vilns32.exe__tbbCopy.Image.png",
+      "size": 614,
+      "ext": "png"
+    },
+    {
+      "name": "tbbEditGraphics.Image",
+      "file": "vilns32.exe__tbbEditGraphics.Image.png",
+      "size": 258,
+      "ext": "png"
+    },
+    {
+      "name": "mnuEditCut.Image",
+      "file": "vilns32.exe__mnuEditCut.Image.png",
+      "size": 517,
+      "ext": "png"
+    },
+    {
+      "name": "tbbNetworkEditor.Image",
+      "file": "vilns32.exe__tbbNetworkEditor.Image.png",
+      "size": 253,
+      "ext": "png"
+    },
+    {
+      "name": "statusLnsServer.Image",
+      "file": "vilns32.exe__statusLnsServer.Image.png",
+      "size": 253,
+      "ext": "png"
+    },
+    {
+      "name": "tbbSiteManagement.Image",
+      "file": "vilns32.exe__tbbSiteManagement.Image.png",
+      "size": 280,
+      "ext": "png"
+    },
+    {
+      "name": "mnuSitePaste.Image",
+      "file": "vilns32.exe__mnuSitePaste.Image.png",
+      "size": 758,
+      "ext": "png"
+    },
+    {
+      "name": "mnuSiteDelete.Image",
+      "file": "vilns32.exe__mnuSiteDelete.Image.png",
+      "size": 252,
+      "ext": "png"
+    },
+    {
+      "name": "mnuDocumentDeleteDocument.Image",
+      "file": "vilns32.exe__mnuDocumentDeleteDocument.Image.png",
+      "size": 252,
+      "ext": "png"
+    },
+    {
+      "name": "mnuCustomersAdd.Image",
+      "file": "vilns32.exe__mnuCustomersAdd.Image.png",
+      "size": 330,
+      "ext": "png"
+    },
+    {
+      "name": "mnuCustomerEditGraphics.Image",
+      "file": "vilns32.exe__mnuCustomerEditGraphics.Image.png",
+      "size": 258,
+      "ext": "png"
+    },
+    {
+      "name": "mnuSiteBackup.Image",
+      "file": "vilns32.exe__mnuSiteBackup.Image.png",
+      "size": 365,
+      "ext": "png"
+    },
+    {
+      "name": "mnuCustomersEditGraphics.Image",
+      "file": "vilns32.exe__mnuCustomersEditGraphics.Image.png",
+      "size": 258,
+      "ext": "png"
+    },
+    {
+      "name": "mnuDocumentSaveTemplate.Image",
+      "file": "vilns32.exe__mnuDocumentSaveTemplate.Image.png",
+      "size": 725,
+      "ext": "png"
+    },
+    {
+      "name": "mnuCustomerDelete.Image",
+      "file": "vilns32.exe__mnuCustomerDelete.Image.png",
+      "size": 252,
+      "ext": "png"
+    },
+    {
+      "name": "mnuCustomersBackupSql.Image",
+      "file": "vilns32.exe__mnuCustomersBackupSql.Image.png",
+      "size": 423,
+      "ext": "png"
+    },
+    {
+      "name": "mnuCustomerNewSite.Image",
+      "file": "vilns32.exe__mnuCustomerNewSite.Image.png",
+      "size": 518,
+      "ext": "png"
+    },
+    {
+      "name": "mnuSiteEditGraphics.Image",
+      "file": "vilns32.exe__mnuSiteEditGraphics.Image.png",
+      "size": 258,
+      "ext": "png"
+    },
+    {
+      "name": "mnuDocumentEditGraphics.Image",
+      "file": "vilns32.exe__mnuDocumentEditGraphics.Image.png",
+      "size": 258,
+      "ext": "png"
+    },
+    {
+      "name": "mnuSiteClose.Image",
+      "file": "vilns32.exe__mnuSiteClose.Image.png",
+      "size": 842,
+      "ext": "png"
+    },
+    {
+      "name": "mnuDocumentProperties.Image",
+      "file": "vilns32.exe__mnuDocumentProperties.Image.png",
+      "size": 646,
+      "ext": "png"
+    },
+    {
+      "name": "axDayView.OcxState",
+      "file": "vilns32.exe__axDayView.OcxState.png",
+      "size": 2587,
+      "ext": "png"
+    },
+    {
+      "name": "axGraphic.OcxState",
+      "file": "vilns32.exe__axGraphic.OcxState.8.png",
+      "size": 2587,
+      "ext": "png"
+    },
+    {
+      "name": "imageList.ImageStream",
+      "file": "vilns32.exe__imageList.ImageStream.4.png",
+      "size": 2587,
+      "ext": "png"
+    },
+    {
+      "name": "imageList.ImageStream",
+      "file": "vilns32.exe__imageList.ImageStream.5.png",
+      "size": 2587,
+      "ext": "png"
+    },
+    {
+      "name": "imageList.ImageStream",
+      "file": "vilns32.exe__imageList.ImageStream.6.png",
+      "size": 2587,
+      "ext": "png"
+    },
+    {
+      "name": "lblImage.Image",
+      "file": "vilns32.exe__lblImage.Image.png",
+      "size": 2587,
+      "ext": "png"
+    },
+    {
+      "name": "local_co",
+      "file": "vilns32.exe__local_co.png",
+      "size": 329,
+      "ext": "png"
+    },
+    {
+      "name": "CopyHS",
+      "file": "vilns32.exe__CopyHS.png",
+      "size": 647,
+      "ext": "png"
+    },
+    {
+      "name": "Network",
+      "file": "vilns32.exe__Network.png",
+      "size": 253,
+      "ext": "png"
+    },
+    {
+      "name": "DeleteHS",
+      "file": "vilns32.exe__DeleteHS.png",
+      "size": 695,
+      "ext": "png"
+    },
+    {
+      "name": "PasteHS",
+      "file": "vilns32.exe__PasteHS.png",
+      "size": 745,
+      "ext": "png"
+    },
+    {
+      "name": "PropertiesHS",
+      "file": "vilns32.exe__PropertiesHS.png",
+      "size": 648,
+      "ext": "png"
+    },
+    {
+      "name": "alarm",
+      "file": "vilns32.exe__alarm.png",
+      "size": 212,
+      "ext": "png"
+    },
+    {
+      "name": "add",
+      "file": "vilns32.exe__add.png",
+      "size": 271,
+      "ext": "png"
+    },
+    {
+      "name": "CutHS",
+      "file": "vilns32.exe__CutHS.png",
+      "size": 633,
+      "ext": "png"
+    },
+    {
+      "name": "browse",
+      "file": "vilns32.exe__browse.png",
+      "size": 199,
+      "ext": "png"
+    },
+    {
+      "name": "visplash",
+      "file": "vilns32.exe__visplash.png",
+      "size": 163241,
+      "ext": "png"
+    },
+    {
+      "name": "Calendar_scheduleHS",
+      "file": "vilns32.exe__Calendar_scheduleHS.png",
+      "size": 757,
+      "ext": "png"
+    }
+  ]
+}

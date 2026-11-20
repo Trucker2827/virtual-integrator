@@ -1,0 +1,10 @@
+{
+  "source": "managed/CirconOpcServer.dll",
+  "streams": [
+    {
+      "streamStart": 96112,
+      "numResources": 0
+    }
+  ],
+  "extracted": []
+}

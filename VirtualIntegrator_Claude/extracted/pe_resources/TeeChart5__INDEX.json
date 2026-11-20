@@ -1,0 +1,1566 @@
+{
+  "source": "ocx/TeeChart5.ocx",
+  "entries": [
+    {
+      "type": "BITMAP",
+      "id": "BBABORT",
+      "size": 464,
+      "file": "TeeChart5__BITMAP_BBABORT.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "BBALL",
+      "size": 484,
+      "file": "TeeChart5__BITMAP_BBALL.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "BBCANCEL",
+      "size": 464,
+      "file": "TeeChart5__BITMAP_BBCANCEL.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "BBCLOSE",
+      "size": 464,
+      "file": "TeeChart5__BITMAP_BBCLOSE.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "BBHELP",
+      "size": 464,
+      "file": "TeeChart5__BITMAP_BBHELP.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "BBIGNORE",
+      "size": 464,
+      "file": "TeeChart5__BITMAP_BBIGNORE.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "BBNO",
+      "size": 464,
+      "file": "TeeChart5__BITMAP_BBNO.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "BBOK",
+      "size": 464,
+      "file": "TeeChart5__BITMAP_BBOK.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "BBRETRY",
+      "size": 464,
+      "file": "TeeChart5__BITMAP_BBRETRY.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "BBYES",
+      "size": 464,
+      "file": "TeeChart5__BITMAP_BBYES.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "DBN_CANCEL",
+      "size": 312,
+      "file": "TeeChart5__BITMAP_DBN_CANCEL.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "DBN_DELETE",
+      "size": 312,
+      "file": "TeeChart5__BITMAP_DBN_DELETE.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "DBN_EDIT",
+      "size": 312,
+      "file": "TeeChart5__BITMAP_DBN_EDIT.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "DBN_FIRST",
+      "size": 312,
+      "file": "TeeChart5__BITMAP_DBN_FIRST.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "DBN_INSERT",
+      "size": 312,
+      "file": "TeeChart5__BITMAP_DBN_INSERT.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "DBN_LAST",
+      "size": 312,
+      "file": "TeeChart5__BITMAP_DBN_LAST.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "DBN_NEXT",
+      "size": 260,
+      "file": "TeeChart5__BITMAP_DBN_NEXT.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "DBN_POST",
+      "size": 312,
+      "file": "TeeChart5__BITMAP_DBN_POST.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "DBN_PRIOR",
+      "size": 260,
+      "file": "TeeChart5__BITMAP_DBN_PRIOR.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "DBN_REFRESH",
+      "size": 312,
+      "file": "TeeChart5__BITMAP_DBN_REFRESH.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "PREVIEWGLYPH",
+      "size": 232,
+      "file": "TeeChart5__BITMAP_PREVIEWGLYPH.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TANNOTATIONTOOL",
+      "size": 232,
+      "file": "TeeChart5__BITMAP_TANNOTATIONTOOL.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TAREASERIES",
+      "size": 392,
+      "file": "TeeChart5__BITMAP_TAREASERIES.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TARROWSERIES",
+      "size": 392,
+      "file": "TeeChart5__BITMAP_TARROWSERIES.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TAXISARROWTOOL",
+      "size": 232,
+      "file": "TeeChart5__BITMAP_TAXISARROWTOOL.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TAXISDIVIDERTOOL",
+      "size": 232,
+      "file": "TeeChart5__BITMAP_TAXISDIVIDERTOOL.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TBARSERIES",
+      "size": 392,
+      "file": "TeeChart5__BITMAP_TBARSERIES.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TBEZIERSERIES",
+      "size": 392,
+      "file": "TeeChart5__BITMAP_TBEZIERSERIES.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TBOXSERIES",
+      "size": 392,
+      "file": "TeeChart5__BITMAP_TBOXSERIES.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TBUBBLESERIES",
+      "size": 392,
+      "file": "TeeChart5__BITMAP_TBUBBLESERIES.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TBUTTONCOLOR",
+      "size": 392,
+      "file": "TeeChart5__BITMAP_TBUTTONCOLOR.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TBUTTONPEN",
+      "size": 392,
+      "file": "TeeChart5__BITMAP_TBUTTONPEN.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TCALENDARSERIES",
+      "size": 392,
+      "file": "TeeChart5__BITMAP_TCALENDARSERIES.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TCANDLESERIES",
+      "size": 392,
+      "file": "TeeChart5__BITMAP_TCANDLESERIES.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TCHARTIMAGETOOL",
+      "size": 232,
+      "file": "TeeChart5__BITMAP_TCHARTIMAGETOOL.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TCHARTSHAPE",
+      "size": 392,
+      "file": "TeeChart5__BITMAP_TCHARTSHAPE.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TCLOCKSERIES",
+      "size": 392,
+      "file": "TeeChart5__BITMAP_TCLOCKSERIES.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TCOLORBANDTOOL",
+      "size": 232,
+      "file": "TeeChart5__BITMAP_TCOLORBANDTOOL.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TCOLORGRIDSERIES",
+      "size": 392,
+      "file": "TeeChart5__BITMAP_TCOLORGRIDSERIES.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TCOLORLINETOOL",
+      "size": 232,
+      "file": "TeeChart5__BITMAP_TCOLORLINETOOL.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TCOMBOFLAT",
+      "size": 392,
+      "file": "TeeChart5__BITMAP_TCOMBOFLAT.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TCONTOURSERIES",
+      "size": 392,
+      "file": "TeeChart5__BITMAP_TCONTOURSERIES.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TCURSORTOOL",
+      "size": 232,
+      "file": "TeeChart5__BITMAP_TCURSORTOOL.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TDELTAPOINTSERIES",
+      "size": 392,
+      "file": "TeeChart5__BITMAP_TDELTAPOINTSERIES.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TDONUTSERIES",
+      "size": 392,
+      "file": "TeeChart5__BITMAP_TDONUTSERIES.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TDRAGMARKSTOOL",
+      "size": 232,
+      "file": "TeeChart5__BITMAP_TDRAGMARKSTOOL.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TDRAGPOINTTOOL",
+      "size": 232,
+      "file": "TeeChart5__BITMAP_TDRAGPOINTTOOL.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TDRAWLINETOOL",
+      "size": 232,
+      "file": "TeeChart5__BITMAP_TDRAWLINETOOL.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TEEARROWDOWN",
+      "size": 272,
+      "file": "TeeChart5__BITMAP_TEEARROWDOWN.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TEEARROWUP",
+      "size": 272,
+      "file": "TeeChart5__BITMAP_TEEARROWUP.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TEEBRUSH1",
+      "size": 112,
+      "file": "TeeChart5__BITMAP_TEEBRUSH1.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TEEBRUSH10",
+      "size": 112,
+      "file": "TeeChart5__BITMAP_TEEBRUSH10.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TEEBRUSH11",
+      "size": 112,
+      "file": "TeeChart5__BITMAP_TEEBRUSH11.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TEEBRUSH12",
+      "size": 112,
+      "file": "TeeChart5__BITMAP_TEEBRUSH12.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TEEBRUSH2",
+      "size": 112,
+      "file": "TeeChart5__BITMAP_TEEBRUSH2.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TEEBRUSH3",
+      "size": 112,
+      "file": "TeeChart5__BITMAP_TEEBRUSH3.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TEEBRUSH4",
+      "size": 112,
+      "file": "TeeChart5__BITMAP_TEEBRUSH4.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TEEBRUSH5",
+      "size": 112,
+      "file": "TeeChart5__BITMAP_TEEBRUSH5.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TEEBRUSH6",
+      "size": 112,
+      "file": "TeeChart5__BITMAP_TEEBRUSH6.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TEEBRUSH7",
+      "size": 112,
+      "file": "TeeChart5__BITMAP_TEEBRUSH7.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TEEBRUSH8",
+      "size": 112,
+      "file": "TeeChart5__BITMAP_TEEBRUSH8.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TEEBRUSH9",
+      "size": 112,
+      "file": "TeeChart5__BITMAP_TEEBRUSH9.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TEECOPY",
+      "size": 1568,
+      "file": "TeeChart5__BITMAP_TEECOPY.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TEEDEFAULTIMAGE",
+      "size": 136,
+      "file": "TeeChart5__BITMAP_TEEDEFAULTIMAGE.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TEEDEPTH",
+      "size": 1464,
+      "file": "TeeChart5__BITMAP_TEEDEPTH.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TEEEDIT",
+      "size": 1464,
+      "file": "TeeChart5__BITMAP_TEEEDIT.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TEEEQUALHAND",
+      "size": 232,
+      "file": "TeeChart5__BITMAP_TEEEQUALHAND.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TEEEQUALSMILE",
+      "size": 232,
+      "file": "TeeChart5__BITMAP_TEEEQUALSMILE.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TEEGREATERHAND",
+      "size": 232,
+      "file": "TeeChart5__BITMAP_TEEGREATERHAND.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TEEGREATERSMILE",
+      "size": 232,
+      "file": "TeeChart5__BITMAP_TEEGREATERSMILE.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TEELOWERHAND",
+      "size": 232,
+      "file": "TeeChart5__BITMAP_TEELOWERHAND.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TEELOWERSMILE",
+      "size": 232,
+      "file": "TeeChart5__BITMAP_TEELOWERSMILE.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TEEMONEY",
+      "size": 4680,
+      "file": "TeeChart5__BITMAP_TEEMONEY.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TEEMOVE",
+      "size": 1464,
+      "file": "TeeChart5__BITMAP_TEEMOVE.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TEENAV_CANCEL",
+      "size": 312,
+      "file": "TeeChart5__BITMAP_TEENAV_CANCEL.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TEENAV_DELETE",
+      "size": 312,
+      "file": "TeeChart5__BITMAP_TEENAV_DELETE.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TEENAV_EDIT",
+      "size": 312,
+      "file": "TeeChart5__BITMAP_TEENAV_EDIT.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TEENAV_FIRST",
+      "size": 312,
+      "file": "TeeChart5__BITMAP_TEENAV_FIRST.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TEENAV_INSERT",
+      "size": 312,
+      "file": "TeeChart5__BITMAP_TEENAV_INSERT.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TEENAV_LAST",
+      "size": 312,
+      "file": "TeeChart5__BITMAP_TEENAV_LAST.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TEENAV_NEXT",
+      "size": 260,
+      "file": "TeeChart5__BITMAP_TEENAV_NEXT.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TEENAV_POST",
+      "size": 312,
+      "file": "TeeChart5__BITMAP_TEENAV_POST.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TEENAV_PRIOR",
+      "size": 260,
+      "file": "TeeChart5__BITMAP_TEENAV_PRIOR.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TEENORMAL",
+      "size": 1764,
+      "file": "TeeChart5__BITMAP_TEENORMAL.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TEEPRINT",
+      "size": 1464,
+      "file": "TeeChart5__BITMAP_TEEPRINT.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TEEROTATE",
+      "size": 1464,
+      "file": "TeeChart5__BITMAP_TEEROTATE.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TEESAVE",
+      "size": 1568,
+      "file": "TeeChart5__BITMAP_TEESAVE.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TEEVIEW3D",
+      "size": 1464,
+      "file": "TeeChart5__BITMAP_TEEVIEW3D.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TEEZOOM",
+      "size": 1464,
+      "file": "TeeChart5__BITMAP_TEEZOOM.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TERRORBARSERIES",
+      "size": 392,
+      "file": "TeeChart5__BITMAP_TERRORBARSERIES.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TERRORSERIES",
+      "size": 392,
+      "file": "TeeChart5__BITMAP_TERRORSERIES.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TFASTLINESERIES",
+      "size": 392,
+      "file": "TeeChart5__BITMAP_TFASTLINESERIES.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TFUNNELSERIES",
+      "size": 392,
+      "file": "TeeChart5__BITMAP_TFUNNELSERIES.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TGANTTSERIES",
+      "size": 392,
+      "file": "TeeChart5__BITMAP_TGANTTSERIES.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "THIGHLOWSERIES",
+      "size": 392,
+      "file": "TeeChart5__BITMAP_THIGHLOWSERIES.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "THISTOGRAMSERIES",
+      "size": 392,
+      "file": "TeeChart5__BITMAP_THISTOGRAMSERIES.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "THORIZBARSERIES",
+      "size": 392,
+      "file": "TeeChart5__BITMAP_THORIZBARSERIES.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "THORIZBOXSERIES",
+      "size": 392,
+      "file": "TeeChart5__BITMAP_THORIZBOXSERIES.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "THORIZLINESERIES",
+      "size": 392,
+      "file": "TeeChart5__BITMAP_THORIZLINESERIES.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TIMAGEBARSERIES",
+      "size": 392,
+      "file": "TeeChart5__BITMAP_TIMAGEBARSERIES.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TIMAGEPOINTSERIES",
+      "size": 392,
+      "file": "TeeChart5__BITMAP_TIMAGEPOINTSERIES.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TLINESERIES",
+      "size": 392,
+      "file": "TeeChart5__BITMAP_TLINESERIES.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TMAPSERIES",
+      "size": 392,
+      "file": "TeeChart5__BITMAP_TMAPSERIES.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TMARKSTIPTOOL",
+      "size": 232,
+      "file": "TeeChart5__BITMAP_TMARKSTIPTOOL.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TNEARESTTOOL",
+      "size": 232,
+      "file": "TeeChart5__BITMAP_TNEARESTTOOL.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TPAGENUMTOOL",
+      "size": 232,
+      "file": "TeeChart5__BITMAP_TPAGENUMTOOL.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TPIESERIES",
+      "size": 392,
+      "file": "TeeChart5__BITMAP_TPIESERIES.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TPOINT3DSERIES",
+      "size": 392,
+      "file": "TeeChart5__BITMAP_TPOINT3DSERIES.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TPOINTSERIES",
+      "size": 392,
+      "file": "TeeChart5__BITMAP_TPOINTSERIES.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TPOLARSERIES",
+      "size": 392,
+      "file": "TeeChart5__BITMAP_TPOLARSERIES.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TPYRAMIDSERIES",
+      "size": 392,
+      "file": "TeeChart5__BITMAP_TPYRAMIDSERIES.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TRADARSERIES",
+      "size": 392,
+      "file": "TeeChart5__BITMAP_TRADARSERIES.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TROTATETOOL",
+      "size": 232,
+      "file": "TeeChart5__BITMAP_TROTATETOOL.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TSELECTORTOOL",
+      "size": 232,
+      "file": "TeeChart5__BITMAP_TSELECTORTOOL.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TSMITHSERIES",
+      "size": 392,
+      "file": "TeeChart5__BITMAP_TSMITHSERIES.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TSURFACESERIES",
+      "size": 392,
+      "file": "TeeChart5__BITMAP_TSURFACESERIES.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TTEEINSPECTOR",
+      "size": 392,
+      "file": "TeeChart5__BITMAP_TTEEINSPECTOR.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TTEEOPENGL",
+      "size": 392,
+      "file": "TeeChart5__BITMAP_TTEEOPENGL.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TTEEPREVIEWPANEL",
+      "size": 392,
+      "file": "TeeChart5__BITMAP_TTEEPREVIEWPANEL.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TTRISURFACESERIES",
+      "size": 392,
+      "file": "TeeChart5__BITMAP_TTRISURFACESERIES.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TVOLUMESERIES",
+      "size": 392,
+      "file": "TeeChart5__BITMAP_TVOLUMESERIES.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TWATERFALLSERIES",
+      "size": 392,
+      "file": "TeeChart5__BITMAP_TWATERFALLSERIES.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "TWINDROSESERIES",
+      "size": 392,
+      "file": "TeeChart5__BITMAP_TWINDROSESERIES.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "1",
+      "size": 232,
+      "file": "TeeChart5__BITMAP_1.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "2",
+      "size": 232,
+      "file": "TeeChart5__BITMAP_2.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "3",
+      "size": 232,
+      "file": "TeeChart5__BITMAP_3.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "4",
+      "size": 232,
+      "file": "TeeChart5__BITMAP_4.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "5",
+      "size": 232,
+      "file": "TeeChart5__BITMAP_5.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "6",
+      "size": 232,
+      "file": "TeeChart5__BITMAP_6.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "7",
+      "size": 232,
+      "file": "TeeChart5__BITMAP_7.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "8",
+      "size": 232,
+      "file": "TeeChart5__BITMAP_8.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "9",
+      "size": 232,
+      "file": "TeeChart5__BITMAP_9.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "10",
+      "size": 232,
+      "file": "TeeChart5__BITMAP_10.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "11",
+      "size": 232,
+      "file": "TeeChart5__BITMAP_11.bmp"
+    },
+    {
+      "type": "STRING",
+      "id": "4074",
+      "size": 372
+    },
+    {
+      "type": "STRING",
+      "id": "4075",
+      "size": 1080
+    },
+    {
+      "type": "STRING",
+      "id": "4076",
+      "size": 972
+    },
+    {
+      "type": "STRING",
+      "id": "4077",
+      "size": 1356
+    },
+    {
+      "type": "STRING",
+      "id": "4078",
+      "size": 656
+    },
+    {
+      "type": "STRING",
+      "id": "4079",
+      "size": 1168
+    },
+    {
+      "type": "STRING",
+      "id": "4080",
+      "size": 1308
+    },
+    {
+      "type": "STRING",
+      "id": "4081",
+      "size": 992
+    },
+    {
+      "type": "STRING",
+      "id": "4082",
+      "size": 836
+    },
+    {
+      "type": "STRING",
+      "id": "4083",
+      "size": 232
+    },
+    {
+      "type": "STRING",
+      "id": "4084",
+      "size": 232
+    },
+    {
+      "type": "STRING",
+      "id": "4085",
+      "size": 804
+    },
+    {
+      "type": "STRING",
+      "id": "4086",
+      "size": 548
+    },
+    {
+      "type": "STRING",
+      "id": "4087",
+      "size": 1000
+    },
+    {
+      "type": "STRING",
+      "id": "4088",
+      "size": 920
+    },
+    {
+      "type": "STRING",
+      "id": "4089",
+      "size": 1076
+    },
+    {
+      "type": "STRING",
+      "id": "4090",
+      "size": 1296
+    },
+    {
+      "type": "STRING",
+      "id": "4091",
+      "size": 520
+    },
+    {
+      "type": "STRING",
+      "id": "4092",
+      "size": 236
+    },
+    {
+      "type": "STRING",
+      "id": "4093",
+      "size": 484
+    },
+    {
+      "type": "STRING",
+      "id": "4094",
+      "size": 836
+    },
+    {
+      "type": "STRING",
+      "id": "4095",
+      "size": 812
+    },
+    {
+      "type": "STRING",
+      "id": "4096",
+      "size": 788
+    },
+    {
+      "type": "RCDATA",
+      "id": "DESCRIPTION",
+      "size": 32,
+      "file": "TeeChart5__RCDATA_DESCRIPTION.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "DVCLAL",
+      "size": 16,
+      "file": "TeeChart5__RCDATA_DVCLAL.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "PACKAGEINFO",
+      "size": 3356,
+      "file": "TeeChart5__RCDATA_PACKAGEINFO.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TADOFORM",
+      "size": 3602,
+      "file": "TeeChart5__RCDATA_TADOFORM.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TANNOTATIONTOOLEDIT",
+      "size": 1756,
+      "file": "TeeChart5__RCDATA_TANNOTATIONTOOLEDIT.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TAREASERIESEDITOR",
+      "size": 2157,
+      "file": "TeeChart5__RCDATA_TAREASERIESEDITOR.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TARROWSERIESEDITOR",
+      "size": 1422,
+      "file": "TeeChart5__RCDATA_TARROWSERIESEDITOR.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TASKLANGUAGE",
+      "size": 1043,
+      "file": "TeeChart5__RCDATA_TASKLANGUAGE.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TAXISARROWTOOLEDITOR",
+      "size": 1461,
+      "file": "TeeChart5__RCDATA_TAXISARROWTOOLEDITOR.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TAXISINCREMENT",
+      "size": 1484,
+      "file": "TeeChart5__RCDATA_TAXISINCREMENT.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TAXISMAXMIN",
+      "size": 957,
+      "file": "TeeChart5__RCDATA_TAXISMAXMIN.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TAXISTOOLEDITOR",
+      "size": 564,
+      "file": "TeeChart5__RCDATA_TAXISTOOLEDITOR.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TBARJOINEDITOR",
+      "size": 200,
+      "file": "TeeChart5__RCDATA_TBARJOINEDITOR.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TBARSERIESEDITOR",
+      "size": 2445,
+      "file": "TeeChart5__RCDATA_TBARSERIESEDITOR.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TBASEDBCHARTEDITOR",
+      "size": 73,
+      "file": "TeeChart5__RCDATA_TBASEDBCHARTEDITOR.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TBASESOURCEEDITOR",
+      "size": 694,
+      "file": "TeeChart5__RCDATA_TBASESOURCEEDITOR.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TBMPOPTIONS",
+      "size": 596,
+      "file": "TeeChart5__RCDATA_TBMPOPTIONS.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TBOXSERIESEDITOR",
+      "size": 789,
+      "file": "TeeChart5__RCDATA_TBOXSERIESEDITOR.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TBRUSHDIALOG",
+      "size": 1282,
+      "file": "TeeChart5__RCDATA_TBRUSHDIALOG.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TCALENDARSERIESEDITOR",
+      "size": 2215,
+      "file": "TeeChart5__RCDATA_TCALENDARSERIESEDITOR.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TCANDLEEDITOR",
+      "size": 1569,
+      "file": "TeeChart5__RCDATA_TCANDLEEDITOR.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TCHARTEDITFORM",
+      "size": 3347,
+      "file": "TeeChart5__RCDATA_TCHARTEDITFORM.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TCHARTIMAGETOOLEDITOR",
+      "size": 494,
+      "file": "TeeChart5__RCDATA_TCHARTIMAGETOOLEDITOR.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TCHARTPREVIEW",
+      "size": 3662,
+      "file": "TeeChart5__RCDATA_TCHARTPREVIEW.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TCHARTSHAPEEDITOR",
+      "size": 3183,
+      "file": "TeeChart5__RCDATA_TCHARTSHAPEEDITOR.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TCIRCLEDSERIESEDITOR",
+      "size": 2099,
+      "file": "TeeChart5__RCDATA_TCIRCLEDSERIESEDITOR.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TCLOCKEDITOR",
+      "size": 1306,
+      "file": "TeeChart5__RCDATA_TCLOCKEDITOR.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TCOLORBANDTOOLEDITOR",
+      "size": 1403,
+      "file": "TeeChart5__RCDATA_TCOLORBANDTOOLEDITOR.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TCOLORGRIDEDITOR",
+      "size": 162,
+      "file": "TeeChart5__RCDATA_TCOLORGRIDEDITOR.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TCOLORLINETOOLEDITOR",
+      "size": 1018,
+      "file": "TeeChart5__RCDATA_TCOLORLINETOOLEDITOR.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TCONNEDITFORM",
+      "size": 1297,
+      "file": "TeeChart5__RCDATA_TCONNEDITFORM.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TCONTOURSERIESEDITOR",
+      "size": 2039,
+      "file": "TeeChart5__RCDATA_TCONTOURSERIESEDITOR.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TCURSORTOOLEDITOR",
+      "size": 723,
+      "file": "TeeChart5__RCDATA_TCURSORTOOLEDITOR.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TCUSTOMSERIESEDITOR",
+      "size": 2081,
+      "file": "TeeChart5__RCDATA_TCUSTOMSERIESEDITOR.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TDBCHARTEDITOR",
+      "size": 563,
+      "file": "TeeChart5__RCDATA_TDBCHARTEDITOR.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TDBCHARTSOURCEEDITOR",
+      "size": 153,
+      "file": "TeeChart5__RCDATA_TDBCHARTSOURCEEDITOR.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TDBCHARTSUMEDITOR",
+      "size": 970,
+      "file": "TeeChart5__RCDATA_TDBCHARTSUMEDITOR.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TDONUTSERIESEDITOR",
+      "size": 514,
+      "file": "TeeChart5__RCDATA_TDONUTSERIESEDITOR.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TDRAGMARKSTOOLEDITOR",
+      "size": 237,
+      "file": "TeeChart5__RCDATA_TDRAGMARKSTOOLEDITOR.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TDRAWLINEEDIT",
+      "size": 841,
+      "file": "TeeChart5__RCDATA_TDRAWLINEEDIT.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TEMFOPTIONS",
+      "size": 254,
+      "file": "TeeChart5__RCDATA_TEMFOPTIONS.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TERRORSERIESEDITOR",
+      "size": 1230,
+      "file": "TeeChart5__RCDATA_TERRORSERIESEDITOR.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TFASTLINESERIESEDITOR",
+      "size": 252,
+      "file": "TeeChart5__RCDATA_TFASTLINESERIESEDITOR.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TFORMPERIOD",
+      "size": 1080,
+      "file": "TeeChart5__RCDATA_TFORMPERIOD.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TFORMTEE3D",
+      "size": 4012,
+      "file": "TeeChart5__RCDATA_TFORMTEE3D.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TFORMTEEAXIS",
+      "size": 10776,
+      "file": "TeeChart5__RCDATA_TFORMTEEAXIS.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TFORMTEEGENERAL",
+      "size": 3995,
+      "file": "TeeChart5__RCDATA_TFORMTEEGENERAL.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TFORMTEEGLEDITOR",
+      "size": 3429,
+      "file": "TeeChart5__RCDATA_TFORMTEEGLEDITOR.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TFORMTEELEGEND",
+      "size": 5277,
+      "file": "TeeChart5__RCDATA_TFORMTEELEGEND.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TFORMTEEPAGE",
+      "size": 1269,
+      "file": "TeeChart5__RCDATA_TFORMTEEPAGE.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TFORMTEEPANEL",
+      "size": 2356,
+      "file": "TeeChart5__RCDATA_TFORMTEEPANEL.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TFORMTEESERIES",
+      "size": 7192,
+      "file": "TeeChart5__RCDATA_TFORMTEESERIES.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TFORMTEESHAPE",
+      "size": 2075,
+      "file": "TeeChart5__RCDATA_TFORMTEESHAPE.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TFORMTEETITLE",
+      "size": 2337,
+      "file": "TeeChart5__RCDATA_TFORMTEETITLE.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TFORMTEETOOLS",
+      "size": 1273,
+      "file": "TeeChart5__RCDATA_TFORMTEETOOLS.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TFORMTEEWALL",
+      "size": 1663,
+      "file": "TeeChart5__RCDATA_TFORMTEEWALL.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TFUNNELSERIESEDITOR",
+      "size": 1124,
+      "file": "TeeChart5__RCDATA_TFUNNELSERIESEDITOR.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TGANTTSERIESEDITOR",
+      "size": 998,
+      "file": "TeeChart5__RCDATA_TGANTTSERIESEDITOR.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TGRID3DSERIESEDITOR",
+      "size": 2790,
+      "file": "TeeChart5__RCDATA_TGRID3DSERIESEDITOR.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "THIGHLOWEDITOR",
+      "size": 891,
+      "file": "TeeChart5__RCDATA_THIGHLOWEDITOR.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "THISTOGRAMSERIESEDITOR",
+      "size": 1195,
+      "file": "TeeChart5__RCDATA_THISTOGRAMSERIESEDITOR.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TIMAGEBARSERIESEDITOR",
+      "size": 657,
+      "file": "TeeChart5__RCDATA_TIMAGEBARSERIESEDITOR.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TLINEPOINTEDITOR",
+      "size": 264,
+      "file": "TeeChart5__RCDATA_TLINEPOINTEDITOR.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TLOGINDIALOG",
+      "size": 1139,
+      "file": "TeeChart5__RCDATA_TLOGINDIALOG.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TMAPSERIESEDITOR",
+      "size": 2963,
+      "file": "TeeChart5__RCDATA_TMAPSERIESEDITOR.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TMARKSTIPTOOLEDIT",
+      "size": 1046,
+      "file": "TeeChart5__RCDATA_TMARKSTIPTOOLEDIT.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TNEARESTTOOLEDIT",
+      "size": 1095,
+      "file": "TeeChart5__RCDATA_TNEARESTTOOLEDIT.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TPCXOPTIONS",
+      "size": 120,
+      "file": "TeeChart5__RCDATA_TPCXOPTIONS.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TPENDIALOG",
+      "size": 1454,
+      "file": "TeeChart5__RCDATA_TPENDIALOG.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TPIESERIESEDITOR",
+      "size": 2980,
+      "file": "TeeChart5__RCDATA_TPIESERIESEDITOR.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TPOINT3DSERIESEDITOR",
+      "size": 955,
+      "file": "TeeChart5__RCDATA_TPOINT3DSERIESEDITOR.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TPOLARSERIESEDITOR",
+      "size": 2735,
+      "file": "TeeChart5__RCDATA_TPOLARSERIESEDITOR.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TPYRAMIDSERIESEDITOR",
+      "size": 973,
+      "file": "TeeChart5__RCDATA_TPYRAMIDSERIESEDITOR.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TROTATETOOLEDITOR",
+      "size": 888,
+      "file": "TeeChart5__RCDATA_TROTATETOOLEDITOR.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TSELECTLISTFORM",
+      "size": 1575,
+      "file": "TeeChart5__RCDATA_TSELECTLISTFORM.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TSERIESPOINTEREDITOR",
+      "size": 2528,
+      "file": "TeeChart5__RCDATA_TSERIESPOINTEREDITOR.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TSERIESTEXTEDITOR",
+      "size": 2354,
+      "file": "TeeChart5__RCDATA_TSERIESTEXTEDITOR.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TSERIESTOOLEDITOR",
+      "size": 489,
+      "file": "TeeChart5__RCDATA_TSERIESTOOLEDITOR.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TSMITHSERIESEDIT",
+      "size": 1331,
+      "file": "TeeChart5__RCDATA_TSMITHSERIESEDIT.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TSTACKBARSERIESEDITOR",
+      "size": 930,
+      "file": "TeeChart5__RCDATA_TSTACKBARSERIESEDITOR.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TSURFACESERIESEDITOR",
+      "size": 878,
+      "file": "TeeChart5__RCDATA_TSURFACESERIESEDITOR.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TTEEABOUTFORM",
+      "size": 31467,
+      "file": "TeeChart5__RCDATA_TTEEABOUTFORM.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TTEECHARTPROPERTYPAGE",
+      "size": 444,
+      "file": "TeeChart5__RCDATA_TTEECHARTPROPERTYPAGE.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TTEEEXPORTFORM",
+      "size": 460,
+      "file": "TeeChart5__RCDATA_TTEEEXPORTFORM.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TTEEEXPORTFORMBASE",
+      "size": 4089,
+      "file": "TeeChart5__RCDATA_TTEEEXPORTFORMBASE.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TTEEFONTEDITOR",
+      "size": 1708,
+      "file": "TeeChart5__RCDATA_TTEEFONTEDITOR.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TTEEFUNCEDITOR",
+      "size": 432,
+      "file": "TeeChart5__RCDATA_TTEEFUNCEDITOR.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TTEEGALLERY",
+      "size": 1029,
+      "file": "TeeChart5__RCDATA_TTEEGALLERY.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TTEEGIFOPTIONS",
+      "size": 992,
+      "file": "TeeChart5__RCDATA_TTEEGIFOPTIONS.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TTEEGRADIENTEDITOR",
+      "size": 1680,
+      "file": "TeeChart5__RCDATA_TTEEGRADIENTEDITOR.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TTEEIMPORTFORM",
+      "size": 1323,
+      "file": "TeeChart5__RCDATA_TTEEIMPORTFORM.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TTEEJPEGOPTIONS",
+      "size": 674,
+      "file": "TeeChart5__RCDATA_TTEEJPEGOPTIONS.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TTEEPNGOPTIONS",
+      "size": 452,
+      "file": "TeeChart5__RCDATA_TTEEPNGOPTIONS.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TTEETOOLSGALLERY",
+      "size": 804,
+      "file": "TeeChart5__RCDATA_TTEETOOLSGALLERY.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TTRISURFACESERIESEDITOR",
+      "size": 519,
+      "file": "TeeChart5__RCDATA_TTRISURFACESERIESEDITOR.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TVOLUMESERIESEDITOR",
+      "size": 868,
+      "file": "TeeChart5__RCDATA_TVOLUMESERIESEDITOR.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TWATERFALLEDITOR",
+      "size": 163,
+      "file": "TeeChart5__RCDATA_TWATERFALLEDITOR.bin"
+    },
+    {
+      "type": "RCDATA",
+      "id": "TWINDROSEEDITOR",
+      "size": 272,
+      "file": "TeeChart5__RCDATA_TWINDROSEEDITOR.bin"
+    },
+    {
+      "type": "GROUP_CURSOR",
+      "id": "TEE_CURSOR_HAND",
+      "size": 20,
+      "file": "TeeChart5__CURSOR_TEE_CURSOR_HAND.cur"
+    },
+    {
+      "type": "GROUP_CURSOR",
+      "id": "32761",
+      "size": 20,
+      "file": "TeeChart5__CURSOR_32761.cur"
+    },
+    {
+      "type": "GROUP_CURSOR",
+      "id": "32762",
+      "size": 20,
+      "file": "TeeChart5__CURSOR_32762.cur"
+    },
+    {
+      "type": "GROUP_CURSOR",
+      "id": "32763",
+      "size": 20,
+      "file": "TeeChart5__CURSOR_32763.cur"
+    },
+    {
+      "type": "GROUP_CURSOR",
+      "id": "32764",
+      "size": 20,
+      "file": "TeeChart5__CURSOR_32764.cur"
+    },
+    {
+      "type": "GROUP_CURSOR",
+      "id": "32765",
+      "size": 20,
+      "file": "TeeChart5__CURSOR_32765.cur"
+    },
+    {
+      "type": "GROUP_CURSOR",
+      "id": "32766",
+      "size": 20,
+      "file": "TeeChart5__CURSOR_32766.cur"
+    },
+    {
+      "type": "GROUP_CURSOR",
+      "id": "32767",
+      "size": 20,
+      "file": "TeeChart5__CURSOR_32767.cur"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "MAINICON",
+      "size": 20,
+      "file": "TeeChart5__ICON_MAINICON.ico"
+    }
+  ]
+}

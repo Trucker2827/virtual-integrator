@@ -1,0 +1,86 @@
+{
+  "source": "ocx/LogConfig.ocx",
+  "entries": [
+    {
+      "type": "BITMAP",
+      "id": "1",
+      "size": 616,
+      "file": "LogConfig__BITMAP_1.bmp"
+    },
+    {
+      "type": "STRING",
+      "id": "1",
+      "size": 136
+    },
+    {
+      "type": "STRING",
+      "id": "13",
+      "size": 800
+    },
+    {
+      "type": "STRING",
+      "id": "14",
+      "size": 352
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "1",
+      "size": 20,
+      "file": "LogConfig__ICON_1.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "206",
+      "size": 20,
+      "file": "LogConfig__ICON_206.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "207",
+      "size": 20,
+      "file": "LogConfig__ICON_207.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "208",
+      "size": 34,
+      "file": "LogConfig__ICON_208.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "209",
+      "size": 34,
+      "file": "LogConfig__ICON_209.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "210",
+      "size": 20,
+      "file": "LogConfig__ICON_210.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "217",
+      "size": 34,
+      "file": "LogConfig__ICON_217.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "222",
+      "size": 20,
+      "file": "LogConfig__ICON_222.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "224",
+      "size": 20,
+      "file": "LogConfig__ICON_224.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "228",
+      "size": 20,
+      "file": "LogConfig__ICON_228.ico"
+    }
+  ]
+}

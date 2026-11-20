@@ -1,0 +1,55 @@
+{
+  "source": "ocx/Browser.ocx",
+  "entries": [
+    {
+      "type": "BITMAP",
+      "id": "1",
+      "size": 224,
+      "file": "Browser__BITMAP_1.bmp"
+    },
+    {
+      "type": "STRING",
+      "id": "1",
+      "size": 116
+    },
+    {
+      "type": "STRING",
+      "id": "7",
+      "size": 60
+    },
+    {
+      "type": "STRING",
+      "id": "13",
+      "size": 46
+    },
+    {
+      "type": "STRING",
+      "id": "3585",
+      "size": 66
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "1",
+      "size": 34,
+      "file": "Browser__ICON_1.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "208",
+      "size": 34,
+      "file": "Browser__ICON_208.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "235",
+      "size": 34,
+      "file": "Browser__ICON_235.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "237",
+      "size": 34,
+      "file": "Browser__ICON_237.ico"
+    }
+  ]
+}

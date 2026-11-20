@@ -1,0 +1,27 @@
+{
+  "source": "ocx/CirconImage.ocx",
+  "entries": [
+    {
+      "type": "BITMAP",
+      "id": "1",
+      "size": 1304,
+      "file": "CirconImage__BITMAP_1.bmp"
+    },
+    {
+      "type": "STRING",
+      "id": "1",
+      "size": 184
+    },
+    {
+      "type": "STRING",
+      "id": "13",
+      "size": 74
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "1",
+      "size": 34,
+      "file": "CirconImage__ICON_1.ico"
+    }
+  ]
+}

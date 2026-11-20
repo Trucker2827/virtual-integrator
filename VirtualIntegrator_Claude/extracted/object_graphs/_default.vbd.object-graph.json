@@ -1,0 +1,16 @@
+{
+  "source": "site_data/Duke Realty/_default.vbd",
+  "graphicsStreamSize": 295,
+  "totalStrings": 5,
+  "classCount": 2,
+  "deviceIdCount": 0,
+  "classes": [
+    "CHyperFrameOb",
+    "CHyperViewOb"
+  ],
+  "deviceIds": [],
+  "labels": [
+    "Arial",
+    "Static Text"
+  ]
+}

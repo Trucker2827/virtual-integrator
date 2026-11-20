@@ -1,0 +1,128 @@
+{
+  "source": "ocx/ScheduleUI.ocx",
+  "entries": [
+    {
+      "type": "BITMAP",
+      "id": "1",
+      "size": 224,
+      "file": "ScheduleUI__BITMAP_1.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "2",
+      "size": 224,
+      "file": "ScheduleUI__BITMAP_2.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "3",
+      "size": 224,
+      "file": "ScheduleUI__BITMAP_3.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "4",
+      "size": 224,
+      "file": "ScheduleUI__BITMAP_4.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "5",
+      "size": 224,
+      "file": "ScheduleUI__BITMAP_5.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "201",
+      "size": 136,
+      "file": "ScheduleUI__BITMAP_201.bmp"
+    },
+    {
+      "type": "STRING",
+      "id": "1",
+      "size": 476
+    },
+    {
+      "type": "STRING",
+      "id": "7",
+      "size": 144
+    },
+    {
+      "type": "STRING",
+      "id": "8",
+      "size": 116
+    },
+    {
+      "type": "STRING",
+      "id": "9",
+      "size": 348
+    },
+    {
+      "type": "STRING",
+      "id": "13",
+      "size": 180
+    },
+    {
+      "type": "STRING",
+      "id": "16",
+      "size": 648
+    },
+    {
+      "type": "STRING",
+      "id": "17",
+      "size": 500
+    },
+    {
+      "type": "STRING",
+      "id": "22",
+      "size": 126
+    },
+    {
+      "type": "STRING",
+      "id": "3585",
+      "size": 66
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "1",
+      "size": 34,
+      "file": "ScheduleUI__ICON_1.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "208",
+      "size": 34,
+      "file": "ScheduleUI__ICON_208.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "210",
+      "size": 20,
+      "file": "ScheduleUI__ICON_210.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "211",
+      "size": 34,
+      "file": "ScheduleUI__ICON_211.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "234",
+      "size": 34,
+      "file": "ScheduleUI__ICON_234.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "235",
+      "size": 34,
+      "file": "ScheduleUI__ICON_235.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "1002",
+      "size": 34,
+      "file": "ScheduleUI__ICON_1002.ico"
+    }
+  ]
+}

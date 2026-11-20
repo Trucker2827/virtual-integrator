@@ -1,0 +1,731 @@
+{
+  "source": "managed/CirconDataLinqForms.dll",
+  "streams": [
+    {
+      "streamStart": 521340,
+      "numResources": 4
+    },
+    {
+      "streamStart": 525908,
+      "numResources": 1
+    },
+    {
+      "streamStart": 526948,
+      "numResources": 2
+    },
+    {
+      "streamStart": 528268,
+      "numResources": 0
+    },
+    {
+      "streamStart": 528452,
+      "numResources": 0
+    },
+    {
+      "streamStart": 528636,
+      "numResources": 0
+    },
+    {
+      "streamStart": 528820,
+      "numResources": 4
+    },
+    {
+      "streamStart": 533460,
+      "numResources": 0
+    },
+    {
+      "streamStart": 533644,
+      "numResources": 4
+    },
+    {
+      "streamStart": 538108,
+      "numResources": 8
+    },
+    {
+      "streamStart": 548124,
+      "numResources": 1
+    },
+    {
+      "streamStart": 548700,
+      "numResources": 1
+    },
+    {
+      "streamStart": 549996,
+      "numResources": 1
+    },
+    {
+      "streamStart": 551036,
+      "numResources": 0
+    },
+    {
+      "streamStart": 551220,
+      "numResources": 0
+    },
+    {
+      "streamStart": 551404,
+      "numResources": 0
+    },
+    {
+      "streamStart": 551588,
+      "numResources": 3
+    },
+    {
+      "streamStart": 558476,
+      "numResources": 4
+    },
+    {
+      "streamStart": 563612,
+      "numResources": 2
+    },
+    {
+      "streamStart": 568684,
+      "numResources": 0
+    },
+    {
+      "streamStart": 568868,
+      "numResources": 1
+    },
+    {
+      "streamStart": 569756,
+      "numResources": 28
+    },
+    {
+      "streamStart": 595700,
+      "numResources": 3
+    },
+    {
+      "streamStart": 748724,
+      "numResources": 0
+    },
+    {
+      "streamStart": 748908,
+      "numResources": 3
+    },
+    {
+      "streamStart": 901932,
+      "numResources": 0
+    },
+    {
+      "streamStart": 902116,
+      "numResources": 1
+    },
+    {
+      "streamStart": 905220,
+      "numResources": 0
+    },
+    {
+      "streamStart": 905404,
+      "numResources": 0
+    },
+    {
+      "streamStart": 905588,
+      "numResources": 1
+    },
+    {
+      "streamStart": 909260,
+      "numResources": 1
+    },
+    {
+      "streamStart": 910348,
+      "numResources": 2
+    },
+    {
+      "streamStart": 914100,
+      "numResources": 2
+    },
+    {
+      "streamStart": 916228,
+      "numResources": 3
+    },
+    {
+      "streamStart": 923916,
+      "numResources": 1
+    },
+    {
+      "streamStart": 927860,
+      "numResources": 1
+    },
+    {
+      "streamStart": 928844,
+      "numResources": 4
+    },
+    {
+      "streamStart": 934124,
+      "numResources": 0
+    },
+    {
+      "streamStart": 934308,
+      "numResources": 7
+    },
+    {
+      "streamStart": 1094564,
+      "numResources": 0
+    },
+    {
+      "streamStart": 1094748,
+      "numResources": 3
+    },
+    {
+      "streamStart": 1100044,
+      "numResources": 12
+    },
+    {
+      "streamStart": 1112140,
+      "numResources": 4
+    }
+  ],
+  "extracted": [
+    {
+      "name": "mnuNewAlarmCode.Image",
+      "file": "CirconDataLinqForms.dll__mnuNewAlarmCode.Image.png",
+      "size": 212,
+      "ext": "png"
+    },
+    {
+      "name": "mnuAlarmCodeDelete.Image",
+      "file": "CirconDataLinqForms.dll__mnuAlarmCodeDelete.Image.png",
+      "size": 252,
+      "ext": "png"
+    },
+    {
+      "name": "mnuAlarmCodeProperties.Image",
+      "file": "CirconDataLinqForms.dll__mnuAlarmCodeProperties.Image.png",
+      "size": 661,
+      "ext": "png"
+    },
+    {
+      "name": "imgList.ImageStream",
+      "file": "CirconDataLinqForms.dll__imgList.ImageStream.png",
+      "size": 302,
+      "ext": "png"
+    },
+    {
+      "name": "pctIconUser.Image",
+      "file": "CirconDataLinqForms.dll__pctIconUser.Image.png",
+      "size": 317,
+      "ext": "png"
+    },
+    {
+      "name": "pctIcon.Image",
+      "file": "CirconDataLinqForms.dll__pctIcon.Image.png",
+      "size": 302,
+      "ext": "png"
+    },
+    {
+      "name": "mnuCustomerDelete.Image",
+      "file": "CirconDataLinqForms.dll__mnuCustomerDelete.Image.png",
+      "size": 252,
+      "ext": "png"
+    },
+    {
+      "name": "mnuNewCustomer.Image",
+      "file": "CirconDataLinqForms.dll__mnuNewCustomer.Image.png",
+      "size": 307,
+      "ext": "png"
+    },
+    {
+      "name": "mnuCustomerProperties.Image",
+      "file": "CirconDataLinqForms.dll__mnuCustomerProperties.Image.png",
+      "size": 661,
+      "ext": "png"
+    },
+    {
+      "name": "mnuSiteDelete.Image",
+      "file": "CirconDataLinqForms.dll__mnuSiteDelete.Image.png",
+      "size": 252,
+      "ext": "png"
+    },
+    {
+      "name": "mnuSiteProperties.Image",
+      "file": "CirconDataLinqForms.dll__mnuSiteProperties.Image.png",
+      "size": 661,
+      "ext": "png"
+    },
+    {
+      "name": "mnuNewSite.Image",
+      "file": "CirconDataLinqForms.dll__mnuNewSite.Image.png",
+      "size": 257,
+      "ext": "png"
+    },
+    {
+      "name": "mnuSiteDelete.Image",
+      "file": "CirconDataLinqForms.dll__mnuSiteDelete.Image.1.png",
+      "size": 252,
+      "ext": "png"
+    },
+    {
+      "name": "mnuSiteBackup.Image",
+      "file": "CirconDataLinqForms.dll__mnuSiteBackup.Image.png",
+      "size": 365,
+      "ext": "png"
+    },
+    {
+      "name": "mnuSiteProperties.Image",
+      "file": "CirconDataLinqForms.dll__mnuSiteProperties.Image.1.png",
+      "size": 661,
+      "ext": "png"
+    },
+    {
+      "name": "mnuCustomerDelete.Image",
+      "file": "CirconDataLinqForms.dll__mnuCustomerDelete.Image.1.png",
+      "size": 252,
+      "ext": "png"
+    },
+    {
+      "name": "mnuCustomersBackupSql.Image",
+      "file": "CirconDataLinqForms.dll__mnuCustomersBackupSql.Image.png",
+      "size": 423,
+      "ext": "png"
+    },
+    {
+      "name": "mnuCustomerNewSite.Image",
+      "file": "CirconDataLinqForms.dll__mnuCustomerNewSite.Image.png",
+      "size": 280,
+      "ext": "png"
+    },
+    {
+      "name": "mnuCustomerProperties.Image",
+      "file": "CirconDataLinqForms.dll__mnuCustomerProperties.Image.1.png",
+      "size": 661,
+      "ext": "png"
+    },
+    {
+      "name": "axLogConfig.OcxState",
+      "file": "CirconDataLinqForms.dll__axLogConfig.OcxState.png",
+      "size": 1512,
+      "ext": "png"
+    },
+    {
+      "name": "imgList.ImageStream",
+      "file": "CirconDataLinqForms.dll__imgList.ImageStream.1.png",
+      "size": 1512,
+      "ext": "png"
+    },
+    {
+      "name": "imgList.ImageStream",
+      "file": "CirconDataLinqForms.dll__imgList.ImageStream.2.png",
+      "size": 1512,
+      "ext": "png"
+    },
+    {
+      "name": "pctIcon.Image",
+      "file": "CirconDataLinqForms.dll__pctIcon.Image.1.png",
+      "size": 1512,
+      "ext": "png"
+    },
+    {
+      "name": "mnuGroupProperties.Image",
+      "file": "CirconDataLinqForms.dll__mnuGroupProperties.Image.png",
+      "size": 661,
+      "ext": "png"
+    },
+    {
+      "name": "mnuGroupDelete.Image",
+      "file": "CirconDataLinqForms.dll__mnuGroupDelete.Image.png",
+      "size": 252,
+      "ext": "png"
+    },
+    {
+      "name": "mnuNewGroup.Image",
+      "file": "CirconDataLinqForms.dll__mnuNewGroup.Image.png",
+      "size": 745,
+      "ext": "png"
+    },
+    {
+      "name": "pctIcon.Image",
+      "file": "CirconDataLinqForms.dll__pctIcon.Image.2.png",
+      "size": 1664,
+      "ext": "png"
+    },
+    {
+      "name": "$this.Icon",
+      "file": "CirconDataLinqForms.dll__$this.Icon.png",
+      "size": 252,
+      "ext": "png"
+    },
+    {
+      "name": "mnuSitePaste.Image",
+      "file": "CirconDataLinqForms.dll__mnuSitePaste.Image.png",
+      "size": 758,
+      "ext": "png"
+    },
+    {
+      "name": "mnuSubsystemDelete.Image",
+      "file": "CirconDataLinqForms.dll__mnuSubsystemDelete.Image.png",
+      "size": 252,
+      "ext": "png"
+    },
+    {
+      "name": "mnuSiteDelete.Image",
+      "file": "CirconDataLinqForms.dll__mnuSiteDelete.Image.2.png",
+      "size": 252,
+      "ext": "png"
+    },
+    {
+      "name": "mnuChannelsProperties.Image",
+      "file": "CirconDataLinqForms.dll__mnuChannelsProperties.Image.png",
+      "size": 661,
+      "ext": "png"
+    },
+    {
+      "name": "mnuMtConnectionProperties.Image",
+      "file": "CirconDataLinqForms.dll__mnuMtConnectionProperties.Image.png",
+      "size": 661,
+      "ext": "png"
+    },
+    {
+      "name": "mnuSiteBackup.Image",
+      "file": "CirconDataLinqForms.dll__mnuSiteBackup.Image.1.png",
+      "size": 365,
+      "ext": "png"
+    },
+    {
+      "name": "mnuSiteProperties.Image",
+      "file": "CirconDataLinqForms.dll__mnuSiteProperties.Image.2.png",
+      "size": 661,
+      "ext": "png"
+    },
+    {
+      "name": "mnuSubsystemPaste.Image",
+      "file": "CirconDataLinqForms.dll__mnuSubsystemPaste.Image.png",
+      "size": 758,
+      "ext": "png"
+    },
+    {
+      "name": "mnuDiscoveredProperties.Image",
+      "file": "CirconDataLinqForms.dll__mnuDiscoveredProperties.Image.png",
+      "size": 661,
+      "ext": "png"
+    },
+    {
+      "name": "mnuChannelProperties.Image",
+      "file": "CirconDataLinqForms.dll__mnuChannelProperties.Image.png",
+      "size": 661,
+      "ext": "png"
+    },
+    {
+      "name": "mnuNvConnectionProperties.Image",
+      "file": "CirconDataLinqForms.dll__mnuNvConnectionProperties.Image.png",
+      "size": 661,
+      "ext": "png"
+    },
+    {
+      "name": "mnuSiteOnNet.Image",
+      "file": "CirconDataLinqForms.dll__mnuSiteOnNet.Image.png",
+      "size": 367,
+      "ext": "png"
+    },
+    {
+      "name": "mnuCustomerDelete.Image",
+      "file": "CirconDataLinqForms.dll__mnuCustomerDelete.Image.2.png",
+      "size": 252,
+      "ext": "png"
+    },
+    {
+      "name": "mnuSiteNetworkProperties.Image",
+      "file": "CirconDataLinqForms.dll__mnuSiteNetworkProperties.Image.png",
+      "size": 661,
+      "ext": "png"
+    },
+    {
+      "name": "mnuCustomersBackupSql.Image",
+      "file": "CirconDataLinqForms.dll__mnuCustomersBackupSql.Image.1.png",
+      "size": 423,
+      "ext": "png"
+    },
+    {
+      "name": "mnuChannelDelete.Image",
+      "file": "CirconDataLinqForms.dll__mnuChannelDelete.Image.png",
+      "size": 252,
+      "ext": "png"
+    },
+    {
+      "name": "mnuNvConnectionDelete.Image",
+      "file": "CirconDataLinqForms.dll__mnuNvConnectionDelete.Image.png",
+      "size": 252,
+      "ext": "png"
+    },
+    {
+      "name": "mnuSubsystemCopy.Image",
+      "file": "CirconDataLinqForms.dll__mnuSubsystemCopy.Image.png",
+      "size": 660,
+      "ext": "png"
+    },
+    {
+      "name": "mnuSiteOffnet.Image",
+      "file": "CirconDataLinqForms.dll__mnuSiteOffnet.Image.png",
+      "size": 357,
+      "ext": "png"
+    },
+    {
+      "name": "mnuNetworkServiceDevicesProperties.Image",
+      "file": "CirconDataLinqForms.dll__mnuNetworkServiceDevicesProperties.Image.png",
+      "size": 661,
+      "ext": "png"
+    },
+    {
+      "name": "mnuSubsystemProperties.Image",
+      "file": "CirconDataLinqForms.dll__mnuSubsystemProperties.Image.png",
+      "size": 661,
+      "ext": "png"
+    },
+    {
+      "name": "mnuMtConnectionDelete.Image",
+      "file": "CirconDataLinqForms.dll__mnuMtConnectionDelete.Image.png",
+      "size": 252,
+      "ext": "png"
+    },
+    {
+      "name": "mnuCustomerNewSite.Image",
+      "file": "CirconDataLinqForms.dll__mnuCustomerNewSite.Image.1.png",
+      "size": 280,
+      "ext": "png"
+    },
+    {
+      "name": "mnuConnectionsProperties.Image",
+      "file": "CirconDataLinqForms.dll__mnuConnectionsProperties.Image.png",
+      "size": 661,
+      "ext": "png"
+    },
+    {
+      "name": "mnuDeviceTemplatesProperties.Image",
+      "file": "CirconDataLinqForms.dll__mnuDeviceTemplatesProperties.Image.png",
+      "size": 661,
+      "ext": "png"
+    },
+    {
+      "name": "mnuSiteClose.Image",
+      "file": "CirconDataLinqForms.dll__mnuSiteClose.Image.png",
+      "size": 842,
+      "ext": "png"
+    },
+    {
+      "name": "mnuCustomerProperties.Image",
+      "file": "CirconDataLinqForms.dll__mnuCustomerProperties.Image.2.png",
+      "size": 661,
+      "ext": "png"
+    },
+    {
+      "name": "wizard.BannerImage",
+      "file": "CirconDataLinqForms.dll__wizard.BannerImage.png",
+      "size": 992,
+      "ext": "png"
+    },
+    {
+      "name": "wizard.MarginImage",
+      "file": "CirconDataLinqForms.dll__wizard.MarginImage.bmp",
+      "size": 522657,
+      "ext": "bmp"
+    },
+    {
+      "name": "wizard.BannerImage",
+      "file": "CirconDataLinqForms.dll__wizard.BannerImage.1.png",
+      "size": 992,
+      "ext": "png"
+    },
+    {
+      "name": "wizard.MarginImage",
+      "file": "CirconDataLinqForms.dll__wizard.MarginImage.1.bmp",
+      "size": 369449,
+      "ext": "bmp"
+    },
+    {
+      "name": "imgPermissions.ImageStream",
+      "file": "CirconDataLinqForms.dll__imgPermissions.ImageStream.png",
+      "size": 594,
+      "ext": "png"
+    },
+    {
+      "name": "imgList.ImageStream",
+      "file": "CirconDataLinqForms.dll__imgList.ImageStream.3.png",
+      "size": 594,
+      "ext": "png"
+    },
+    {
+      "name": "pctIcon.Image",
+      "file": "CirconDataLinqForms.dll__pctIcon.Image.3.png",
+      "size": 594,
+      "ext": "png"
+    },
+    {
+      "name": "pctIcon.Image",
+      "file": "CirconDataLinqForms.dll__pctIcon.Image.4.png",
+      "size": 343,
+      "ext": "png"
+    },
+    {
+      "name": "crViewer.OcxState",
+      "file": "CirconDataLinqForms.dll__crViewer.OcxState.png",
+      "size": 487,
+      "ext": "png"
+    },
+    {
+      "name": "imgList.ImageStream",
+      "file": "CirconDataLinqForms.dll__imgList.ImageStream.4.png",
+      "size": 487,
+      "ext": "png"
+    },
+    {
+      "name": "imgList.ImageStream",
+      "file": "CirconDataLinqForms.dll__imgList.ImageStream.5.png",
+      "size": 487,
+      "ext": "png"
+    },
+    {
+      "name": "pctIcon.Image",
+      "file": "CirconDataLinqForms.dll__pctIcon.Image.5.png",
+      "size": 487,
+      "ext": "png"
+    },
+    {
+      "name": "mnuScheduleEventDelete.Image",
+      "file": "CirconDataLinqForms.dll__mnuScheduleEventDelete.Image.png",
+      "size": 252,
+      "ext": "png"
+    },
+    {
+      "name": "mnuScheduleEventNew.Image",
+      "file": "CirconDataLinqForms.dll__mnuScheduleEventNew.Image.png",
+      "size": 831,
+      "ext": "png"
+    },
+    {
+      "name": "mnuScheduleEventProperties.Image",
+      "file": "CirconDataLinqForms.dll__mnuScheduleEventProperties.Image.png",
+      "size": 661,
+      "ext": "png"
+    },
+    {
+      "name": "saveHS",
+      "file": "CirconDataLinqForms.dll__saveHS.png",
+      "size": 712,
+      "ext": "png"
+    },
+    {
+      "name": "zipbanner",
+      "file": "CirconDataLinqForms.dll__zipbanner.bmp",
+      "size": 183158,
+      "ext": "bmp"
+    },
+    {
+      "name": "zipwizard",
+      "file": "CirconDataLinqForms.dll__zipwizard.bmp",
+      "size": 176822,
+      "ext": "bmp"
+    },
+    {
+      "name": "modem",
+      "file": "CirconDataLinqForms.dll__modem.png",
+      "size": 572,
+      "ext": "png"
+    },
+    {
+      "name": "zipbanner1",
+      "file": "CirconDataLinqForms.dll__zipbanner1.png",
+      "size": 1028,
+      "ext": "png"
+    },
+    {
+      "name": "site_large",
+      "file": "CirconDataLinqForms.dll__site_large.png",
+      "size": 495,
+      "ext": "png"
+    },
+    {
+      "name": "Inspect",
+      "file": "CirconDataLinqForms.dll__Inspect.png",
+      "size": 222,
+      "ext": "png"
+    },
+    {
+      "name": "pctIcon.Image",
+      "file": "CirconDataLinqForms.dll__pctIcon.Image.6.png",
+      "size": 301,
+      "ext": "png"
+    },
+    {
+      "name": "mnuCustomersAdd.Image",
+      "file": "CirconDataLinqForms.dll__mnuCustomersAdd.Image.png",
+      "size": 330,
+      "ext": "png"
+    },
+    {
+      "name": "mnuPartitionProperties.Image",
+      "file": "CirconDataLinqForms.dll__mnuPartitionProperties.Image.png",
+      "size": 661,
+      "ext": "png"
+    },
+    {
+      "name": "mnuScheduleZoneDelete.Image",
+      "file": "CirconDataLinqForms.dll__mnuScheduleZoneDelete.Image.png",
+      "size": 252,
+      "ext": "png"
+    },
+    {
+      "name": "mnuScheduleZoneProperties.Image",
+      "file": "CirconDataLinqForms.dll__mnuScheduleZoneProperties.Image.png",
+      "size": 661,
+      "ext": "png"
+    },
+    {
+      "name": "mnuCustomerDelete.Image",
+      "file": "CirconDataLinqForms.dll__mnuCustomerDelete.Image.3.png",
+      "size": 252,
+      "ext": "png"
+    },
+    {
+      "name": "mnuPartitionDelete.Image",
+      "file": "CirconDataLinqForms.dll__mnuPartitionDelete.Image.png",
+      "size": 252,
+      "ext": "png"
+    },
+    {
+      "name": "mnuCustomersBackupSql.Image",
+      "file": "CirconDataLinqForms.dll__mnuCustomersBackupSql.Image.2.png",
+      "size": 423,
+      "ext": "png"
+    },
+    {
+      "name": "mnuPartitionScheduleAdd.Image",
+      "file": "CirconDataLinqForms.dll__mnuPartitionScheduleAdd.Image.png",
+      "size": 770,
+      "ext": "png"
+    },
+    {
+      "name": "mnuScheduleZoneAdd.Image",
+      "file": "CirconDataLinqForms.dll__mnuScheduleZoneAdd.Image.png",
+      "size": 770,
+      "ext": "png"
+    },
+    {
+      "name": "mnuCustomerNewPartition.Image",
+      "file": "CirconDataLinqForms.dll__mnuCustomerNewPartition.Image.png",
+      "size": 343,
+      "ext": "png"
+    },
+    {
+      "name": "mnuCustomerProperties.Image",
+      "file": "CirconDataLinqForms.dll__mnuCustomerProperties.Image.3.png",
+      "size": 661,
+      "ext": "png"
+    },
+    {
+      "name": "mnuNewUser.Image",
+      "file": "CirconDataLinqForms.dll__mnuNewUser.Image.png",
+      "size": 748,
+      "ext": "png"
+    },
+    {
+      "name": "mnuUserProperties.Image",
+      "file": "CirconDataLinqForms.dll__mnuUserProperties.Image.png",
+      "size": 661,
+      "ext": "png"
+    },
+    {
+      "name": "mnuUserDelete.Image",
+      "file": "CirconDataLinqForms.dll__mnuUserDelete.Image.png",
+      "size": 252,
+      "ext": "png"
+    }
+  ]
+}

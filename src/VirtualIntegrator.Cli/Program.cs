@@ -21,5 +21,11 @@ write.SetHandler(LonCommands.WriteAsync, deviceOption, addressArg, nvIndexArg, v
 
 var lon = new Command("lon", "LonTalk operations") { scan, read, write };
 
-var root = new RootCommand("Virtual Integrator CLI") { lon };
+var sitePathArg = new Argument<string>("path", "Path to the site's `vi/` folder (or the folder containing it).");
+var siteOpen = new Command("open", "Load a Circon site tree and print its structure.") { sitePathArg };
+siteOpen.SetHandler((string path) => SiteCommands.Open(path), sitePathArg);
+
+var site = new Command("site", "Site / project operations") { siteOpen };
+
+var root = new RootCommand("Virtual Integrator CLI") { lon, site };
 return await root.InvokeAsync(args);

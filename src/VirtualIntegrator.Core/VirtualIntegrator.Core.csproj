@@ -3,4 +3,7 @@
     <RootNamespace>VirtualIntegrator.Core</RootNamespace>
     <AssemblyName>VirtualIntegrator.Core</AssemblyName>
   </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="OpenMcdf" Version="2.4.1" />
+  </ItemGroup>
 </Project>

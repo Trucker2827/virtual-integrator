@@ -1,0 +1,11 @@
+{
+  "source": "ocx/NVanimat.ocx",
+  "entries": [
+    {
+      "type": "BITMAP",
+      "id": "30000",
+      "size": 224,
+      "file": "NVanimat__BITMAP_30000.bmp"
+    }
+  ]
+}

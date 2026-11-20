@@ -1,0 +1,135 @@
+{
+  "source": "ocx/obselect.ocx",
+  "entries": [
+    {
+      "type": "BITMAP",
+      "id": "1",
+      "size": 224,
+      "file": "obselect__BITMAP_1.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "3",
+      "size": 224,
+      "file": "obselect__BITMAP_3.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "5",
+      "size": 224,
+      "file": "obselect__BITMAP_5.bmp"
+    },
+    {
+      "type": "STRING",
+      "id": "1",
+      "size": 348
+    },
+    {
+      "type": "STRING",
+      "id": "13",
+      "size": 74
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "1",
+      "size": 34,
+      "file": "obselect__ICON_1.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "203",
+      "size": 34,
+      "file": "obselect__ICON_203.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "204",
+      "size": 34,
+      "file": "obselect__ICON_204.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "205",
+      "size": 34,
+      "file": "obselect__ICON_205.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "206",
+      "size": 34,
+      "file": "obselect__ICON_206.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "208",
+      "size": 34,
+      "file": "obselect__ICON_208.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "210",
+      "size": 48,
+      "file": "obselect__ICON_210.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "211",
+      "size": 34,
+      "file": "obselect__ICON_211.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "212",
+      "size": 34,
+      "file": "obselect__ICON_212.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "214",
+      "size": 34,
+      "file": "obselect__ICON_214.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "215",
+      "size": 34,
+      "file": "obselect__ICON_215.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "216",
+      "size": 34,
+      "file": "obselect__ICON_216.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "217",
+      "size": 34,
+      "file": "obselect__ICON_217.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "219",
+      "size": 34,
+      "file": "obselect__ICON_219.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "221",
+      "size": 34,
+      "file": "obselect__ICON_221.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "222",
+      "size": 34,
+      "file": "obselect__ICON_222.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "223",
+      "size": 34,
+      "file": "obselect__ICON_223.ico"
+    }
+  ]
+}

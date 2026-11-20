@@ -1,0 +1,145 @@
+{
+  "source": "managed/CirconGfxForms.dll",
+  "streams": [
+    {
+      "streamStart": 89520,
+      "numResources": 0
+    },
+    {
+      "streamStart": 89704,
+      "numResources": 0
+    },
+    {
+      "streamStart": 89888,
+      "numResources": 1
+    },
+    {
+      "streamStart": 92544,
+      "numResources": 0
+    },
+    {
+      "streamStart": 92728,
+      "numResources": 0
+    },
+    {
+      "streamStart": 92912,
+      "numResources": 1
+    },
+    {
+      "streamStart": 95968,
+      "numResources": 13
+    },
+    {
+      "streamStart": 113280,
+      "numResources": 0
+    },
+    {
+      "streamStart": 113464,
+      "numResources": 0
+    },
+    {
+      "streamStart": 113648,
+      "numResources": 0
+    },
+    {
+      "streamStart": 113832,
+      "numResources": 0
+    },
+    {
+      "streamStart": 114016,
+      "numResources": 1
+    }
+  ],
+  "extracted": [
+    {
+      "name": "imgList.ImageStream",
+      "file": "CirconGfxForms.dll__imgList.ImageStream.png",
+      "size": 647,
+      "ext": "png"
+    },
+    {
+      "name": "imgList.ImageStream",
+      "file": "CirconGfxForms.dll__imgList.ImageStream.1.png",
+      "size": 647,
+      "ext": "png"
+    },
+    {
+      "name": "pubbanner",
+      "file": "CirconGfxForms.dll__pubbanner.png",
+      "size": 6339,
+      "ext": "png"
+    },
+    {
+      "name": "CopyHS",
+      "file": "CirconGfxForms.dll__CopyHS.png",
+      "size": 647,
+      "ext": "png"
+    },
+    {
+      "name": "DeleteHS",
+      "file": "CirconGfxForms.dll__DeleteHS.png",
+      "size": 695,
+      "ext": "png"
+    },
+    {
+      "name": "DeleteHS1",
+      "file": "CirconGfxForms.dll__DeleteHS1.png",
+      "size": 695,
+      "ext": "png"
+    },
+    {
+      "name": "PasteHS",
+      "file": "CirconGfxForms.dll__PasteHS.png",
+      "size": 745,
+      "ext": "png"
+    },
+    {
+      "name": "RenameFolderHS",
+      "file": "CirconGfxForms.dll__RenameFolderHS.png",
+      "size": 448,
+      "ext": "png"
+    },
+    {
+      "name": "CutHS",
+      "file": "CirconGfxForms.dll__CutHS.png",
+      "size": 633,
+      "ext": "png"
+    },
+    {
+      "name": "docsmall",
+      "file": "CirconGfxForms.dll__docsmall.png",
+      "size": 385,
+      "ext": "png"
+    },
+    {
+      "name": "editgraphics",
+      "file": "CirconGfxForms.dll__editgraphics.png",
+      "size": 793,
+      "ext": "png"
+    },
+    {
+      "name": "folder",
+      "file": "CirconGfxForms.dll__folder.png",
+      "size": 708,
+      "ext": "png"
+    },
+    {
+      "name": "banner",
+      "file": "CirconGfxForms.dll__banner.png",
+      "size": 1129,
+      "ext": "png"
+    },
+    {
+      "name": "Properties",
+      "file": "CirconGfxForms.dll__Properties.png",
+      "size": 700,
+      "ext": "png"
+    },
+    {
+      "name": "newdoc",
+      "file": "CirconGfxForms.dll__newdoc.png",
+      "size": 602,
+      "ext": "png"
+    }
+  ]
+}

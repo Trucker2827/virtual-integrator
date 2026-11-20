@@ -1,0 +1,21 @@
+{
+  "source": "ocx/label.ocx",
+  "entries": [
+    {
+      "type": "BITMAP",
+      "id": "1",
+      "size": 224,
+      "file": "label__BITMAP_1.bmp"
+    },
+    {
+      "type": "STRING",
+      "id": "1",
+      "size": 110
+    },
+    {
+      "type": "STRING",
+      "id": "13",
+      "size": 46
+    }
+  ]
+}

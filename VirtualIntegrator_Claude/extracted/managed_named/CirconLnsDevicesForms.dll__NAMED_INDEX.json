@@ -1,0 +1,10 @@
+{
+  "source": "managed/CirconLnsDevicesForms.dll",
+  "streams": [
+    {
+      "streamStart": 4920,
+      "numResources": 1
+    }
+  ],
+  "extracted": []
+}

@@ -1,0 +1,33 @@
+{
+  "source": "ocx/PlugIn.ocx",
+  "entries": [
+    {
+      "type": "BITMAP",
+      "id": "1",
+      "size": 224,
+      "file": "PlugIn__BITMAP_1.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "2",
+      "size": 224,
+      "file": "PlugIn__BITMAP_2.bmp"
+    },
+    {
+      "type": "STRING",
+      "id": "1",
+      "size": 268
+    },
+    {
+      "type": "STRING",
+      "id": "13",
+      "size": 84
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "1",
+      "size": 34,
+      "file": "PlugIn__ICON_1.ico"
+    }
+  ]
+}

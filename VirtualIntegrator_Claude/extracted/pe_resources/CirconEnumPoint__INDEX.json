@@ -1,0 +1,38 @@
+{
+  "source": "ocx/CirconEnumPoint.ocx",
+  "entries": [
+    {
+      "type": "BITMAP",
+      "id": "1",
+      "size": 224,
+      "file": "CirconEnumPoint__BITMAP_1.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "203",
+      "size": 484,
+      "file": "CirconEnumPoint__BITMAP_203.bmp"
+    },
+    {
+      "type": "STRING",
+      "id": "1",
+      "size": 112
+    },
+    {
+      "type": "STRING",
+      "id": "13",
+      "size": 100
+    },
+    {
+      "type": "STRING",
+      "id": "3585",
+      "size": 66
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "1",
+      "size": 34,
+      "file": "CirconEnumPoint__ICON_1.ico"
+    }
+  ]
+}

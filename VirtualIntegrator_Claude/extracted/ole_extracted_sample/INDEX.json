@@ -1,0 +1,17 @@
+{
+  "source": "../site_data/Duke Realty/Building 1835/vi/_default.vbd",
+  "streams": [
+    {
+      "stream": "Root Entry/Graphics",
+      "size": 332084,
+      "ext": "bin",
+      "file": "Root Entry_Graphics.bin"
+    },
+    {
+      "stream": "Root Entry/CONTENTS",
+      "size": 72,
+      "ext": "bin",
+      "file": "Root Entry_CONTENTS.bin"
+    }
+  ]
+}

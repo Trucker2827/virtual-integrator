@@ -1,0 +1,477 @@
+{
+  "source": "ocx/lnsui.ocx",
+  "entries": [
+    {
+      "type": "BITMAP",
+      "id": "1",
+      "size": 224,
+      "file": "lnsui__BITMAP_1.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "2",
+      "size": 224,
+      "file": "lnsui__BITMAP_2.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "3",
+      "size": 224,
+      "file": "lnsui__BITMAP_3.bmp"
+    },
+    {
+      "type": "BITMAP",
+      "id": "7",
+      "size": 224,
+      "file": "lnsui__BITMAP_7.bmp"
+    },
+    {
+      "type": "STRING",
+      "id": "1",
+      "size": 662
+    },
+    {
+      "type": "STRING",
+      "id": "7",
+      "size": 136
+    },
+    {
+      "type": "STRING",
+      "id": "8",
+      "size": 238
+    },
+    {
+      "type": "STRING",
+      "id": "9",
+      "size": 498
+    },
+    {
+      "type": "STRING",
+      "id": "13",
+      "size": 542
+    },
+    {
+      "type": "STRING",
+      "id": "14",
+      "size": 442
+    },
+    {
+      "type": "STRING",
+      "id": "15",
+      "size": 130
+    },
+    {
+      "type": "STRING",
+      "id": "16",
+      "size": 598
+    },
+    {
+      "type": "STRING",
+      "id": "19",
+      "size": 286
+    },
+    {
+      "type": "STRING",
+      "id": "20",
+      "size": 1514
+    },
+    {
+      "type": "STRING",
+      "id": "26",
+      "size": 1310
+    },
+    {
+      "type": "STRING",
+      "id": "27",
+      "size": 2294
+    },
+    {
+      "type": "STRING",
+      "id": "28",
+      "size": 2376
+    },
+    {
+      "type": "STRING",
+      "id": "29",
+      "size": 1318
+    },
+    {
+      "type": "STRING",
+      "id": "30",
+      "size": 670
+    },
+    {
+      "type": "STRING",
+      "id": "32",
+      "size": 164
+    },
+    {
+      "type": "STRING",
+      "id": "63",
+      "size": 120
+    },
+    {
+      "type": "STRING",
+      "id": "126",
+      "size": 234
+    },
+    {
+      "type": "STRING",
+      "id": "134",
+      "size": 68
+    },
+    {
+      "type": "STRING",
+      "id": "188",
+      "size": 7096
+    },
+    {
+      "type": "STRING",
+      "id": "189",
+      "size": 6868
+    },
+    {
+      "type": "STRING",
+      "id": "251",
+      "size": 40
+    },
+    {
+      "type": "STRING",
+      "id": "267",
+      "size": 134
+    },
+    {
+      "type": "STRING",
+      "id": "313",
+      "size": 40
+    },
+    {
+      "type": "STRING",
+      "id": "321",
+      "size": 278
+    },
+    {
+      "type": "STRING",
+      "id": "322",
+      "size": 696
+    },
+    {
+      "type": "STRING",
+      "id": "323",
+      "size": 714
+    },
+    {
+      "type": "STRING",
+      "id": "376",
+      "size": 164
+    },
+    {
+      "type": "STRING",
+      "id": "438",
+      "size": 100
+    },
+    {
+      "type": "STRING",
+      "id": "501",
+      "size": 124
+    },
+    {
+      "type": "STRING",
+      "id": "563",
+      "size": 84
+    },
+    {
+      "type": "STRING",
+      "id": "564",
+      "size": 102
+    },
+    {
+      "type": "STRING",
+      "id": "626",
+      "size": 470
+    },
+    {
+      "type": "STRING",
+      "id": "627",
+      "size": 236
+    },
+    {
+      "type": "STRING",
+      "id": "688",
+      "size": 42
+    },
+    {
+      "type": "STRING",
+      "id": "751",
+      "size": 198
+    },
+    {
+      "type": "STRING",
+      "id": "813",
+      "size": 116
+    },
+    {
+      "type": "STRING",
+      "id": "814",
+      "size": 160
+    },
+    {
+      "type": "STRING",
+      "id": "815",
+      "size": 102
+    },
+    {
+      "type": "STRING",
+      "id": "821",
+      "size": 82
+    },
+    {
+      "type": "STRING",
+      "id": "822",
+      "size": 158
+    },
+    {
+      "type": "STRING",
+      "id": "823",
+      "size": 56
+    },
+    {
+      "type": "STRING",
+      "id": "876",
+      "size": 100
+    },
+    {
+      "type": "STRING",
+      "id": "3585",
+      "size": 66
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "1",
+      "size": 34,
+      "file": "lnsui__ICON_1.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "201",
+      "size": 34,
+      "file": "lnsui__ICON_201.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "202",
+      "size": 34,
+      "file": "lnsui__ICON_202.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "203",
+      "size": 20,
+      "file": "lnsui__ICON_203.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "204",
+      "size": 20,
+      "file": "lnsui__ICON_204.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "214",
+      "size": 34,
+      "file": "lnsui__ICON_214.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "219",
+      "size": 20,
+      "file": "lnsui__ICON_219.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "222",
+      "size": 34,
+      "file": "lnsui__ICON_222.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "223",
+      "size": 48,
+      "file": "lnsui__ICON_223.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "224",
+      "size": 20,
+      "file": "lnsui__ICON_224.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "229",
+      "size": 20,
+      "file": "lnsui__ICON_229.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "230",
+      "size": 20,
+      "file": "lnsui__ICON_230.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "231",
+      "size": 34,
+      "file": "lnsui__ICON_231.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "232",
+      "size": 34,
+      "file": "lnsui__ICON_232.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "233",
+      "size": 34,
+      "file": "lnsui__ICON_233.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "234",
+      "size": 34,
+      "file": "lnsui__ICON_234.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "235",
+      "size": 34,
+      "file": "lnsui__ICON_235.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "236",
+      "size": 34,
+      "file": "lnsui__ICON_236.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "237",
+      "size": 34,
+      "file": "lnsui__ICON_237.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "240",
+      "size": 34,
+      "file": "lnsui__ICON_240.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "241",
+      "size": 34,
+      "file": "lnsui__ICON_241.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "242",
+      "size": 34,
+      "file": "lnsui__ICON_242.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "243",
+      "size": 34,
+      "file": "lnsui__ICON_243.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "244",
+      "size": 34,
+      "file": "lnsui__ICON_244.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "245",
+      "size": 34,
+      "file": "lnsui__ICON_245.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "246",
+      "size": 34,
+      "file": "lnsui__ICON_246.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "248",
+      "size": 34,
+      "file": "lnsui__ICON_248.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "249",
+      "size": 20,
+      "file": "lnsui__ICON_249.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "250",
+      "size": 20,
+      "file": "lnsui__ICON_250.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "251",
+      "size": 20,
+      "file": "lnsui__ICON_251.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "252",
+      "size": 20,
+      "file": "lnsui__ICON_252.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "253",
+      "size": 20,
+      "file": "lnsui__ICON_253.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "254",
+      "size": 34,
+      "file": "lnsui__ICON_254.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "255",
+      "size": 34,
+      "file": "lnsui__ICON_255.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "256",
+      "size": 34,
+      "file": "lnsui__ICON_256.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "257",
+      "size": 20,
+      "file": "lnsui__ICON_257.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "258",
+      "size": 34,
+      "file": "lnsui__ICON_258.ico"
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "261",
+      "size": 90,
+      "file": "lnsui__ICON_261.ico"
+    }
+  ]
+}

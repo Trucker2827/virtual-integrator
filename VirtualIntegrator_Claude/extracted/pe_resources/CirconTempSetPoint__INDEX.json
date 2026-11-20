@@ -1,0 +1,32 @@
+{
+  "source": "ocx/CirconTempSetPoint.ocx",
+  "entries": [
+    {
+      "type": "BITMAP",
+      "id": "1",
+      "size": 224,
+      "file": "CirconTempSetPoint__BITMAP_1.bmp"
+    },
+    {
+      "type": "STRING",
+      "id": "1",
+      "size": 200
+    },
+    {
+      "type": "STRING",
+      "id": "13",
+      "size": 70
+    },
+    {
+      "type": "STRING",
+      "id": "3585",
+      "size": 66
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "1",
+      "size": 34,
+      "file": "CirconTempSetPoint__ICON_1.ico"
+    }
+  ]
+}

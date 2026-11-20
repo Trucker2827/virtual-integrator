@@ -1,0 +1,49 @@
+Dim gpHyperCallingView As Long
+
+Declare Function GetPropInt App (ByVal ObStr As String, ByVal PropID As Integer) As Integer
+Declare Function GetPropLong App (ByVal ObStr As String, ByVal PropID As Integer) As Long
+Declare Function GetPropDbl App (ByVal ObStr As String, ByVal PropID As Integer) As Double
+Declare Function GetPropStr App (ByVal ObStr As String, ByVal PropID As Integer) As String
+
+Declare Sub SetPropInt App (ByVal ObStr As String, ByVal PropID As Integer, ByVal What As Integer)
+Declare Sub SetPropLong App (ByVal ObStr As String, ByVal PropID As Integer, ByVal What As Long)
+Declare Sub SetPropDbl App (ByVal ObStr As String, ByVal PropID As Integer, ByVal What As Double)
+Declare Sub SetPropStr App (ByVal ObStr As String, ByVal PropID As Integer, ByVal What As String)
+
+'$$ AttachOLE If (Not AttachOLE("XXX")) Then Exit Sub
+Declare Function AttachOLE App (ByVal ObStr As String) As Boolean
+''$$ OnUpdate OnUpdate(this) ' Repaint
+Declare Sub OnUpdate App (ByVal ObStr As String)
+''$$ OnUpdateSave OnUpdateSave(this)	' Repaint & Save (On Close)
+Declare Sub OnUpdateSave App (ByVal ObStr As String)
+''$$ PumpData PumpData ' New Data: Update Obs
+Declare Sub PumpData App (ByVal ObStr As String)
+''$$ PumpDataAll PumpDataAll ' New Data: Update Obs (All Views)
+Declare Sub PumpDataAll App ()
+''$$ GUIEvent GUIEvent ' New Data: Update Ctrls
+Declare Sub GUIEvent App ()
+''$$ GUIEventAll GUIEventAll ' New Data: Update Ctrls (All Views)
+Declare Sub GUIEventAll App ()
+
+''$$ DoOpenDoc DoOpenDoc("8.3") ' Open Document
+Declare Sub DoOpenDoc App (ByVal ObStr As String)
+''$$ DoCancel DoCancel ' Close Window
+Declare Sub DoCancel App ()
+''$$ DoRecord DoRecord ' Record New Control Values To DB
+Declare Sub DoRecord App ()
+
+Declare Function GetVar App (ByVal VarId As Long) As Variant
+Declare Function GetVarBool App (ByVal VarId As Long) As Boolean
+Declare Function GetVarLong App (ByVal VarId As Long) As Long
+Declare Function GetVarDbl App (ByVal VarId As Long) As Double
+Declare Function GetVarStr App (ByVal VarId As Long) As String
+Declare Sub SetVar App (ByVal VarId As Long, ByVal What As Variant)
+Declare Sub SetVarBool App (ByVal VarId As Long, ByVal What As Boolean)
+Declare Sub SetVarLong App (ByVal VarId As Long, ByVal What As Long)
+Declare Sub SetVarDbl App (ByVal VarId As Long, ByVal What As Double)
+Declare Sub SetVarStr App (ByVal VarId As Long, ByVal What As String)
+
+'$$ RGB RGB(0,0,0)
+Function RGB(ByVal R As Long, ByVal G As Long, ByVal B As Long) As Long
+    RGB = R + 256 * G + 65536 * B
+End Function

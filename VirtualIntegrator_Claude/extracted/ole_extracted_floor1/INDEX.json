@@ -1,0 +1,17 @@
+{
+  "source": "../site_data/Duke Realty/Building 1835/vi/Floor 1 (Unit 1)/_default.sub",
+  "streams": [
+    {
+      "stream": "Root Entry/Graphics",
+      "size": 130794,
+      "ext": "bin",
+      "file": "Root Entry_Graphics.bin"
+    },
+    {
+      "stream": "Root Entry/PATH",
+      "size": 24,
+      "ext": "bin",
+      "file": "Root Entry_PATH.bin"
+    }
+  ]
+}

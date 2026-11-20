@@ -1,0 +1,27 @@
+{
+  "source": "ocx/CirconAnimatedPoint.ocx",
+  "entries": [
+    {
+      "type": "BITMAP",
+      "id": "1",
+      "size": 224,
+      "file": "CirconAnimatedPoint__BITMAP_1.bmp"
+    },
+    {
+      "type": "STRING",
+      "id": "1",
+      "size": 270
+    },
+    {
+      "type": "STRING",
+      "id": "13",
+      "size": 96
+    },
+    {
+      "type": "GROUP_ICON",
+      "id": "1",
+      "size": 34,
+      "file": "CirconAnimatedPoint__ICON_1.ico"
+    }
+  ]
+}

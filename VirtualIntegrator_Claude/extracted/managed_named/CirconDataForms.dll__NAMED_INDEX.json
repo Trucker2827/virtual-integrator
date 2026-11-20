@@ -1,0 +1,221 @@
+{
+  "source": "managed/CirconDataForms.dll",
+  "streams": [
+    {
+      "streamStart": 154208,
+      "numResources": 1
+    },
+    {
+      "streamStart": 155808,
+      "numResources": 2
+    },
+    {
+      "streamStart": 160632,
+      "numResources": 44
+    },
+    {
+      "streamStart": 170512,
+      "numResources": 2
+    },
+    {
+      "streamStart": 174728,
+      "numResources": 2
+    },
+    {
+      "streamStart": 179368,
+      "numResources": 2
+    },
+    {
+      "streamStart": 182688,
+      "numResources": 31
+    },
+    {
+      "streamStart": 189296,
+      "numResources": 1
+    },
+    {
+      "streamStart": 191160,
+      "numResources": 3
+    },
+    {
+      "streamStart": 196072,
+      "numResources": 4
+    },
+    {
+      "streamStart": 203792,
+      "numResources": 1
+    },
+    {
+      "streamStart": 226848,
+      "numResources": 1
+    },
+    {
+      "streamStart": 227608,
+      "numResources": 0
+    },
+    {
+      "streamStart": 227792,
+      "numResources": 1
+    },
+    {
+      "streamStart": 228880,
+      "numResources": 0
+    },
+    {
+      "streamStart": 229064,
+      "numResources": 1
+    },
+    {
+      "streamStart": 229904,
+      "numResources": 0
+    },
+    {
+      "streamStart": 230088,
+      "numResources": 0
+    },
+    {
+      "streamStart": 230272,
+      "numResources": 0
+    },
+    {
+      "streamStart": 230456,
+      "numResources": 2
+    },
+    {
+      "streamStart": 232512,
+      "numResources": 0
+    },
+    {
+      "streamStart": 232696,
+      "numResources": 0
+    },
+    {
+      "streamStart": 232880,
+      "numResources": 1
+    },
+    {
+      "streamStart": 332120,
+      "numResources": 1
+    },
+    {
+      "streamStart": 431360,
+      "numResources": 3
+    }
+  ],
+  "extracted": [
+    {
+      "name": "pctAccessZone.Image",
+      "file": "CirconDataForms.dll__pctAccessZone.Image.png",
+      "size": 1093,
+      "ext": "png"
+    },
+    {
+      "name": "imgList.ImageStream",
+      "file": "CirconDataForms.dll__imgList.ImageStream.png",
+      "size": 1371,
+      "ext": "png"
+    },
+    {
+      "name": "txtPin.Modifiers",
+      "file": "CirconDataForms.dll__txtPin.Modifiers.png",
+      "size": 1371,
+      "ext": "png"
+    },
+    {
+      "name": "pctIcon.Image",
+      "file": "CirconDataForms.dll__pctIcon.Image.png",
+      "size": 1371,
+      "ext": "png"
+    },
+    {
+      "name": "pctIcon.Image",
+      "file": "CirconDataForms.dll__pctIcon.Image.1.png",
+      "size": 1371,
+      "ext": "png"
+    },
+    {
+      "name": "pctIcon.Image",
+      "file": "CirconDataForms.dll__pctIcon.Image.2.png",
+      "size": 301,
+      "ext": "png"
+    },
+    {
+      "name": "txtName.Modifiers",
+      "file": "CirconDataForms.dll__txtName.Modifiers.png",
+      "size": 1371,
+      "ext": "png"
+    },
+    {
+      "name": "pctIcon.Image",
+      "file": "CirconDataForms.dll__pctIcon.Image.3.png",
+      "size": 1371,
+      "ext": "png"
+    },
+    {
+      "name": "pctElevator.Image",
+      "file": "CirconDataForms.dll__pctElevator.Image.png",
+      "size": 535,
+      "ext": "png"
+    },
+    {
+      "name": "pctDoor.Image",
+      "file": "CirconDataForms.dll__pctDoor.Image.png",
+      "size": 1152,
+      "ext": "png"
+    },
+    {
+      "name": "pctAccessibility.Image",
+      "file": "CirconDataForms.dll__pctAccessibility.Image.png",
+      "size": 600,
+      "ext": "png"
+    },
+    {
+      "name": "pctIcon.Image",
+      "file": "CirconDataForms.dll__pctIcon.Image.4.png",
+      "size": 1180,
+      "ext": "png"
+    },
+    {
+      "name": "$this.Icon",
+      "file": "CirconDataForms.dll__$this.Icon.bmp",
+      "size": 231220,
+      "ext": "bmp"
+    },
+    {
+      "name": "pctAccessZone.Image",
+      "file": "CirconDataForms.dll__pctAccessZone.Image.1.png",
+      "size": 253,
+      "ext": "png"
+    },
+    {
+      "name": "pctIcon.Image",
+      "file": "CirconDataForms.dll__pctIcon.Image.5.png",
+      "size": 594,
+      "ext": "png"
+    },
+    {
+      "name": "pctIcon.Image",
+      "file": "CirconDataForms.dll__pctIcon.Image.6.png",
+      "size": 343,
+      "ext": "png"
+    },
+    {
+      "name": "translateList.OcxState",
+      "file": "CirconDataForms.dll__translateList.OcxState.png",
+      "size": 8184,
+      "ext": "png"
+    },
+    {
+      "name": "$this.Icon",
+      "file": "CirconDataForms.dll__$this.Icon.png",
+      "size": 8184,
+      "ext": "png"
+    },
+    {
+      "name": "$this.Icon",
+      "file": "CirconDataForms.dll__$this.Icon.1.png",
+      "size": 8184,
+      "ext": "png"
+    }
+  ]
+}

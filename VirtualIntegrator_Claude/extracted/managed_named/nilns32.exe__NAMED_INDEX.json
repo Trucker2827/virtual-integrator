@@ -1,0 +1,291 @@
+{
+  "source": "managed/nilns32.exe",
+  "streams": [
+    {
+      "streamStart": 121032,
+      "numResources": 1
+    },
+    {
+      "streamStart": 125992,
+      "numResources": 7
+    },
+    {
+      "streamStart": 277496,
+      "numResources": 0
+    },
+    {
+      "streamStart": 277680,
+      "numResources": 0
+    },
+    {
+      "streamStart": 277864,
+      "numResources": 0
+    },
+    {
+      "streamStart": 278048,
+      "numResources": 2
+    },
+    {
+      "streamStart": 278936,
+      "numResources": 49
+    },
+    {
+      "streamStart": 311520,
+      "numResources": 2
+    }
+  ],
+  "extracted": [
+    {
+      "name": "imageList.ImageStream",
+      "file": "nilns32.exe__imageList.ImageStream.png",
+      "size": 695,
+      "ext": "png"
+    },
+    {
+      "name": "nisplash",
+      "file": "nilns32.exe__nisplash.png",
+      "size": 146657,
+      "ext": "png"
+    },
+    {
+      "name": "Network",
+      "file": "nilns32.exe__Network.png",
+      "size": 253,
+      "ext": "png"
+    },
+    {
+      "name": "DeleteHS",
+      "file": "nilns32.exe__DeleteHS.png",
+      "size": 695,
+      "ext": "png"
+    },
+    {
+      "name": "WarningHS",
+      "file": "nilns32.exe__WarningHS.png",
+      "size": 756,
+      "ext": "png"
+    },
+    {
+      "name": "PropertiesHS",
+      "file": "nilns32.exe__PropertiesHS.bmp",
+      "size": 213591,
+      "ext": "bmp"
+    },
+    {
+      "name": "clear",
+      "file": "nilns32.exe__clear.png",
+      "size": 232,
+      "ext": "png"
+    },
+    {
+      "name": "browse",
+      "file": "nilns32.exe__browse.png",
+      "size": 199,
+      "ext": "png"
+    },
+    {
+      "name": "siteList.OcxState",
+      "file": "nilns32.exe__siteList.OcxState.png",
+      "size": 255,
+      "ext": "png"
+    },
+    {
+      "name": "tbbDelete.Image",
+      "file": "nilns32.exe__tbbDelete.Image.png",
+      "size": 252,
+      "ext": "png"
+    },
+    {
+      "name": "statusDisconnect.Image",
+      "file": "nilns32.exe__statusDisconnect.Image.png",
+      "size": 263,
+      "ext": "png"
+    },
+    {
+      "name": "mnuFilePrint.Image",
+      "file": "nilns32.exe__mnuFilePrint.Image.png",
+      "size": 683,
+      "ext": "png"
+    },
+    {
+      "name": "mnuHelpSearch.Image",
+      "file": "nilns32.exe__mnuHelpSearch.Image.png",
+      "size": 719,
+      "ext": "png"
+    },
+    {
+      "name": "mnuBrowserClear.Image",
+      "file": "nilns32.exe__mnuBrowserClear.Image.png",
+      "size": 255,
+      "ext": "png"
+    },
+    {
+      "name": "mnuHelpContents.Image",
+      "file": "nilns32.exe__mnuHelpContents.Image.png",
+      "size": 669,
+      "ext": "png"
+    },
+    {
+      "name": "tbbRefreshDocument.Image",
+      "file": "nilns32.exe__tbbRefreshDocument.Image.png",
+      "size": 448,
+      "ext": "png"
+    },
+    {
+      "name": "mnuFileProperties.Image",
+      "file": "nilns32.exe__mnuFileProperties.Image.png",
+      "size": 661,
+      "ext": "png"
+    },
+    {
+      "name": "tbbCloseSite.Image",
+      "file": "nilns32.exe__tbbCloseSite.Image.png",
+      "size": 842,
+      "ext": "png"
+    },
+    {
+      "name": "mnuFileDelete.Image",
+      "file": "nilns32.exe__mnuFileDelete.Image.png",
+      "size": 252,
+      "ext": "png"
+    },
+    {
+      "name": "mnuEditCopy.Image",
+      "file": "nilns32.exe__mnuEditCopy.Image.png",
+      "size": 614,
+      "ext": "png"
+    },
+    {
+      "name": "tbbGoForward.Image",
+      "file": "nilns32.exe__tbbGoForward.Image.png",
+      "size": 705,
+      "ext": "png"
+    },
+    {
+      "name": "mnuToolsTaskScheduler.Image",
+      "file": "nilns32.exe__mnuToolsTaskScheduler.Image.png",
+      "size": 565,
+      "ext": "png"
+    },
+    {
+      "name": "mnuEditPaste.Image",
+      "file": "nilns32.exe__mnuEditPaste.Image.png",
+      "size": 724,
+      "ext": "png"
+    },
+    {
+      "name": "mnuHelpLicense.Image",
+      "file": "nilns32.exe__mnuHelpLicense.Image.png",
+      "size": 693,
+      "ext": "png"
+    },
+    {
+      "name": "statusConnect.Image",
+      "file": "nilns32.exe__statusConnect.Image.png",
+      "size": 253,
+      "ext": "png"
+    },
+    {
+      "name": "mnuViewRefresh.Image",
+      "file": "nilns32.exe__mnuViewRefresh.Image.png",
+      "size": 474,
+      "ext": "png"
+    },
+    {
+      "name": "tbbServiceManager.Image",
+      "file": "nilns32.exe__tbbServiceManager.Image.png",
+      "size": 369,
+      "ext": "png"
+    },
+    {
+      "name": "tbbScheduleView.Image",
+      "file": "nilns32.exe__tbbScheduleView.Image.png",
+      "size": 222,
+      "ext": "png"
+    },
+    {
+      "name": "tbbMgmtModePropagate.Image",
+      "file": "nilns32.exe__tbbMgmtModePropagate.Image.png",
+      "size": 367,
+      "ext": "png"
+    },
+    {
+      "name": "tbbPaste.Image",
+      "file": "nilns32.exe__tbbPaste.Image.png",
+      "size": 724,
+      "ext": "png"
+    },
+    {
+      "name": "tbbGoBack.Image",
+      "file": "nilns32.exe__tbbGoBack.Image.png",
+      "size": 731,
+      "ext": "png"
+    },
+    {
+      "name": "tbbCut.Image",
+      "file": "nilns32.exe__tbbCut.Image.png",
+      "size": 517,
+      "ext": "png"
+    },
+    {
+      "name": "mnuServiceManager.Image",
+      "file": "nilns32.exe__mnuServiceManager.Image.png",
+      "size": 298,
+      "ext": "png"
+    },
+    {
+      "name": "tbbBrowserClear.Image",
+      "file": "nilns32.exe__tbbBrowserClear.Image.png",
+      "size": 255,
+      "ext": "png"
+    },
+    {
+      "name": "mnuToolsSiteManagement.Image",
+      "file": "nilns32.exe__mnuToolsSiteManagement.Image.png",
+      "size": 280,
+      "ext": "png"
+    },
+    {
+      "name": "tbbPrint.Image",
+      "file": "nilns32.exe__tbbPrint.Image.png",
+      "size": 683,
+      "ext": "png"
+    },
+    {
+      "name": "tbbProperties.Image",
+      "file": "nilns32.exe__tbbProperties.Image.png",
+      "size": 646,
+      "ext": "png"
+    },
+    {
+      "name": "tbbCopy.Image",
+      "file": "nilns32.exe__tbbCopy.Image.png",
+      "size": 614,
+      "ext": "png"
+    },
+    {
+      "name": "mnuEditCut.Image",
+      "file": "nilns32.exe__mnuEditCut.Image.png",
+      "size": 517,
+      "ext": "png"
+    },
+    {
+      "name": "tbbMgmtModeDefer.Image",
+      "file": "nilns32.exe__tbbMgmtModeDefer.Image.png",
+      "size": 357,
+      "ext": "png"
+    },
+    {
+      "name": "statusLnsServer.Image",
+      "file": "nilns32.exe__statusLnsServer.Image.png",
+      "size": 253,
+      "ext": "png"
+    },
+    {
+      "name": "tbbSiteManagement.Image",
+      "file": "nilns32.exe__tbbSiteManagement.Image.png",
+      "size": 280,
+      "ext": "png"
+    }
+  ]
+}

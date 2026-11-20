@@ -1,0 +1,17 @@
+{
+  "name": "manifest",
+  "version": "1.0.0",
+  "main": "extract_ole.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cfb": "^1.2.2",
+    "pe-library": "^1.0.1",
+    "resedit": "^2.0.3"
+  }
+}

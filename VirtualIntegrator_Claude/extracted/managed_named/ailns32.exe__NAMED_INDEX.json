@@ -1,0 +1,339 @@
+{
+  "source": "managed/ailns32.exe",
+  "streams": [
+    {
+      "streamStart": 381068,
+      "numResources": 0
+    },
+    {
+      "streamStart": 381252,
+      "numResources": 0
+    },
+    {
+      "streamStart": 381436,
+      "numResources": 0
+    },
+    {
+      "streamStart": 381620,
+      "numResources": 24
+    },
+    {
+      "streamStart": 403900,
+      "numResources": 2
+    },
+    {
+      "streamStart": 410788,
+      "numResources": 0
+    },
+    {
+      "streamStart": 410972,
+      "numResources": 3
+    },
+    {
+      "streamStart": 421268,
+      "numResources": 0
+    },
+    {
+      "streamStart": 421452,
+      "numResources": 0
+    },
+    {
+      "streamStart": 421636,
+      "numResources": 0
+    },
+    {
+      "streamStart": 421820,
+      "numResources": 56
+    },
+    {
+      "streamStart": 437132,
+      "numResources": 27
+    },
+    {
+      "streamStart": 449340,
+      "numResources": 54
+    },
+    {
+      "streamStart": 463956,
+      "numResources": 2
+    },
+    {
+      "streamStart": 468708,
+      "numResources": 1
+    },
+    {
+      "streamStart": 470684,
+      "numResources": 1
+    },
+    {
+      "streamStart": 472332,
+      "numResources": 2
+    },
+    {
+      "streamStart": 477612,
+      "numResources": 0
+    },
+    {
+      "streamStart": 477796,
+      "numResources": 0
+    },
+    {
+      "streamStart": 477980,
+      "numResources": 0
+    },
+    {
+      "streamStart": 478164,
+      "numResources": 0
+    },
+    {
+      "streamStart": 478348,
+      "numResources": 1
+    },
+    {
+      "streamStart": 482556,
+      "numResources": 7
+    },
+    {
+      "streamStart": 487572,
+      "numResources": 0
+    },
+    {
+      "streamStart": 487756,
+      "numResources": 1
+    },
+    {
+      "streamStart": 495604,
+      "numResources": 1
+    },
+    {
+      "streamStart": 503668,
+      "numResources": 0
+    },
+    {
+      "streamStart": 503852,
+      "numResources": 15
+    },
+    {
+      "streamStart": 513492,
+      "numResources": 1
+    }
+  ],
+  "extracted": [
+    {
+      "name": "tbbDelete.Image",
+      "file": "ailns32.exe__tbbDelete.Image.png",
+      "size": 229,
+      "ext": "png"
+    },
+    {
+      "name": "mnuLogViewer.Image",
+      "file": "ailns32.exe__mnuLogViewer.Image.png",
+      "size": 266,
+      "ext": "png"
+    },
+    {
+      "name": "mnuHelpSearch.Image",
+      "file": "ailns32.exe__mnuHelpSearch.Image.png",
+      "size": 579,
+      "ext": "png"
+    },
+    {
+      "name": "tbbView.Image",
+      "file": "ailns32.exe__tbbView.Image.png",
+      "size": 199,
+      "ext": "png"
+    },
+    {
+      "name": "mnuHelpContents.Image",
+      "file": "ailns32.exe__mnuHelpContents.Image.png",
+      "size": 646,
+      "ext": "png"
+    },
+    {
+      "name": "mnuFileProperties.Image",
+      "file": "ailns32.exe__mnuFileProperties.Image.png",
+      "size": 661,
+      "ext": "png"
+    },
+    {
+      "name": "tbbCloseSite.Image",
+      "file": "ailns32.exe__tbbCloseSite.Image.png",
+      "size": 819,
+      "ext": "png"
+    },
+    {
+      "name": "mnuFileDelete.Image",
+      "file": "ailns32.exe__mnuFileDelete.Image.png",
+      "size": 252,
+      "ext": "png"
+    },
+    {
+      "name": "tbbNetworkScheduler.Image",
+      "file": "ailns32.exe__tbbNetworkScheduler.Image.png",
+      "size": 729,
+      "ext": "png"
+    },
+    {
+      "name": "mnuToolsTaskScheduler.Image",
+      "file": "ailns32.exe__mnuToolsTaskScheduler.Image.png",
+      "size": 849,
+      "ext": "png"
+    },
+    {
+      "name": "mnuHelpLicense.Image",
+      "file": "ailns32.exe__mnuHelpLicense.Image.png",
+      "size": 247,
+      "ext": "png"
+    },
+    {
+      "name": "tbbFindAccessUsers.Image",
+      "file": "ailns32.exe__tbbFindAccessUsers.Image.png",
+      "size": 652,
+      "ext": "png"
+    },
+    {
+      "name": "tbbServiceManager.Image",
+      "file": "ailns32.exe__tbbServiceManager.Image.png",
+      "size": 275,
+      "ext": "png"
+    },
+    {
+      "name": "mnuFindAccessUsers.Image",
+      "file": "ailns32.exe__mnuFindAccessUsers.Image.png",
+      "size": 675,
+      "ext": "png"
+    },
+    {
+      "name": "mnuServiceManager.Image",
+      "file": "ailns32.exe__mnuServiceManager.Image.png",
+      "size": 298,
+      "ext": "png"
+    },
+    {
+      "name": "tbbLogViewer.Image",
+      "file": "ailns32.exe__tbbLogViewer.Image.png",
+      "size": 243,
+      "ext": "png"
+    },
+    {
+      "name": "mnuToolsSiteManagement.Image",
+      "file": "ailns32.exe__mnuToolsSiteManagement.Image.png",
+      "size": 280,
+      "ext": "png"
+    },
+    {
+      "name": "tbbProperties.Image",
+      "file": "ailns32.exe__tbbProperties.Image.png",
+      "size": 623,
+      "ext": "png"
+    },
+    {
+      "name": "tbbSync.Image",
+      "file": "ailns32.exe__tbbSync.Image.png",
+      "size": 230,
+      "ext": "png"
+    },
+    {
+      "name": "tbbSiteManagement.Image",
+      "file": "ailns32.exe__tbbSiteManagement.Image.png",
+      "size": 257,
+      "ext": "png"
+    },
+    {
+      "name": "imageList.ImageStream",
+      "file": "ailns32.exe__imageList.ImageStream.gif",
+      "size": 2967,
+      "ext": "gif"
+    },
+    {
+      "name": "imgList.ImageStream",
+      "file": "ailns32.exe__imgList.ImageStream.gif",
+      "size": 2967,
+      "ext": "gif"
+    },
+    {
+      "name": "wizard.WelcomeBitmap",
+      "file": "ailns32.exe__wizard.WelcomeBitmap.gif",
+      "size": 2967,
+      "ext": "gif"
+    },
+    {
+      "name": "wzpLnsLonMarkObject.SnapToGrid",
+      "file": "ailns32.exe__wzpLnsLonMarkObject.SnapToGrid.bmp",
+      "size": 524288,
+      "ext": "bmp"
+    },
+    {
+      "name": "tvwZones.Modifiers",
+      "file": "ailns32.exe__tvwZones.Modifiers.bmp",
+      "size": 524288,
+      "ext": "bmp"
+    },
+    {
+      "name": "txtSite.Modifiers",
+      "file": "ailns32.exe__txtSite.Modifiers.bmp",
+      "size": 524288,
+      "ext": "bmp"
+    },
+    {
+      "name": "imageList.ImageStream",
+      "file": "ailns32.exe__imageList.ImageStream.bmp",
+      "size": 524288,
+      "ext": "bmp"
+    },
+    {
+      "name": "$this.Icon",
+      "file": "ailns32.exe__$this.Icon.bmp",
+      "size": 524288,
+      "ext": "bmp"
+    },
+    {
+      "name": "$this.Icon",
+      "file": "ailns32.exe__$this.Icon.1.bmp",
+      "size": 524288,
+      "ext": "bmp"
+    },
+    {
+      "name": "imlPoints.ImageStream",
+      "file": "ailns32.exe__imlPoints.ImageStream.bmp",
+      "size": 524288,
+      "ext": "bmp"
+    },
+    {
+      "name": "$this.Icon",
+      "file": "ailns32.exe__$this.Icon.2.bmp",
+      "size": 524288,
+      "ext": "bmp"
+    },
+    {
+      "name": "imgList.Modifiers",
+      "file": "ailns32.exe__imgList.Modifiers.bmp",
+      "size": 524288,
+      "ext": "bmp"
+    },
+    {
+      "name": "imgSmallList.ImageStream",
+      "file": "ailns32.exe__imgSmallList.ImageStream.bmp",
+      "size": 524288,
+      "ext": "bmp"
+    },
+    {
+      "name": "imgList.ImageStream",
+      "file": "ailns32.exe__imgList.ImageStream.bmp",
+      "size": 524288,
+      "ext": "bmp"
+    },
+    {
+      "name": "crViewer.OcxState",
+      "file": "ailns32.exe__crViewer.OcxState.bmp",
+      "size": 524288,
+      "ext": "bmp"
+    },
+    {
+      "name": "pctSplash.Image",
+      "file": "ailns32.exe__pctSplash.Image.bmp",
+      "size": 524288,
+      "ext": "bmp"
+    }
+  ]
+}

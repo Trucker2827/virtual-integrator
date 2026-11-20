@@ -1,0 +1,11 @@
+{
+  "source": "ocx/Timer.ocx",
+  "entries": [
+    {
+      "type": "BITMAP",
+      "id": "30000",
+      "size": 224,
+      "file": "Timer__BITMAP_30000.bmp"
+    }
+  ]
+}

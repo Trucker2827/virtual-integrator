@@ -1,0 +1,43 @@
+{
+  "source": "managed/AlarmView.dll",
+  "streams": [
+    {
+      "streamStart": 58740,
+      "numResources": 0
+    },
+    {
+      "streamStart": 58924,
+      "numResources": 0
+    },
+    {
+      "streamStart": 59108,
+      "numResources": 0
+    },
+    {
+      "streamStart": 59292,
+      "numResources": 1
+    },
+    {
+      "streamStart": 60516,
+      "numResources": 0
+    },
+    {
+      "streamStart": 60700,
+      "numResources": 1
+    }
+  ],
+  "extracted": [
+    {
+      "name": "btnViewEvents.Image",
+      "file": "AlarmView.dll__btnViewEvents.Image.png",
+      "size": 719,
+      "ext": "png"
+    },
+    {
+      "name": "PropertiesHS",
+      "file": "AlarmView.dll__PropertiesHS.png",
+      "size": 648,
+      "ext": "png"
+    }
+  ]
+}

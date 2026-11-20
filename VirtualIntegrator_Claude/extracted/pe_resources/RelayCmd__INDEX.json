@@ -1,0 +1,11 @@
+{
+  "source": "ocx/RelayCmd.ocx",
+  "entries": [
+    {
+      "type": "BITMAP",
+      "id": "30000",
+      "size": 1304,
+      "file": "RelayCmd__BITMAP_30000.bmp"
+    }
+  ]
+}

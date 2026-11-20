@@ -1,0 +1,113 @@
+{
+  "source": "managed/CirconForms.dll",
+  "streams": [
+    {
+      "streamStart": 139724,
+      "numResources": 1
+    },
+    {
+      "streamStart": 248732,
+      "numResources": 0
+    },
+    {
+      "streamStart": 248916,
+      "numResources": 10
+    },
+    {
+      "streamStart": 251948,
+      "numResources": 0
+    },
+    {
+      "streamStart": 252132,
+      "numResources": 10
+    },
+    {
+      "streamStart": 255156,
+      "numResources": 0
+    },
+    {
+      "streamStart": 255340,
+      "numResources": 0
+    },
+    {
+      "streamStart": 255524,
+      "numResources": 1
+    },
+    {
+      "streamStart": 267724,
+      "numResources": 3
+    },
+    {
+      "streamStart": 268324,
+      "numResources": 1
+    },
+    {
+      "streamStart": 346884,
+      "numResources": 0
+    },
+    {
+      "streamStart": 347068,
+      "numResources": 0
+    },
+    {
+      "streamStart": 347252,
+      "numResources": 0
+    },
+    {
+      "streamStart": 347436,
+      "numResources": 0
+    },
+    {
+      "streamStart": 347620,
+      "numResources": 0
+    },
+    {
+      "streamStart": 347804,
+      "numResources": 1
+    }
+  ],
+  "extracted": [
+    {
+      "name": "pctLogo.Image",
+      "file": "CirconForms.dll__pctLogo.Image.bmp",
+      "size": 213071,
+      "ext": "bmp"
+    },
+    {
+      "name": "$this.TrayLargeIcon",
+      "file": "CirconForms.dll__$this.TrayLargeIcon.png",
+      "size": 11698,
+      "ext": "png"
+    },
+    {
+      "name": "$this.TrayLargeIcon",
+      "file": "CirconForms.dll__$this.TrayLargeIcon.1.png",
+      "size": 11698,
+      "ext": "png"
+    },
+    {
+      "name": "pictureBox1.Image",
+      "file": "CirconForms.dll__pictureBox1.Image.png",
+      "size": 11698,
+      "ext": "png"
+    },
+    {
+      "name": "$this.TrayLargeIcon",
+      "file": "CirconForms.dll__$this.TrayLargeIcon.bmp",
+      "size": 74351,
+      "ext": "bmp"
+    },
+    {
+      "name": "$this.Icon",
+      "file": "CirconForms.dll__$this.Icon.bmp",
+      "size": 74351,
+      "ext": "bmp"
+    },
+    {
+      "name": "pictureBox1.Image",
+      "file": "CirconForms.dll__pictureBox1.Image.1.png",
+      "size": 2137,
+      "ext": "png"
+    }
+  ]
+}
