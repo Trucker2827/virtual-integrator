@@ -4,7 +4,29 @@ A modern, cross-platform (Windows, macOS, Linux) reimplementation of the Circon 
 
 ## Status
 
-Early planning. No code yet. See [docs/legacy-research/](docs/legacy-research/) for reverse-engineering notes on the original software that inform this rewrite.
+Skeleton in place. `dotnet build && dotnet test` passes on Linux/macOS/Windows CI. See [docs/legacy-research/](docs/legacy-research/) for reverse-engineering notes on the original software that inform this rewrite.
+
+## Layout
+
+```
+src/
+  VirtualIntegrator.Core/   — domain model + abstractions (ILonChannel, LonAddress, ...)
+  VirtualIntegrator.Cli/    — `vi` CLI (System.CommandLine)
+tests/
+  VirtualIntegrator.Core.Tests/
+docs/legacy-research/       — reverse-engineering notes (XIF/DRF parser plans, LonTalk plan, etc.)
+```
+
+Additional projects (`VirtualIntegrator.Data`, `VirtualIntegrator.Lon.OpenLdv`, `VirtualIntegrator.OpcServer`, `VirtualIntegrator.Ui`) will be added as those modules come online.
+
+## Build
+
+```
+dotnet build
+dotnet test
+```
+
+Requires the .NET 8 SDK. The dev workstation holding the original Circon install is Windows 7, which cannot host the .NET 8 SDK — development happens on Windows 10+, macOS, or Linux. CI (GitHub Actions) builds on all three.
 
 ## Goals
 
