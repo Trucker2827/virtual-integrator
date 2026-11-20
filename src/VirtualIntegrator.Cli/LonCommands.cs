@@ -1,3 +1,4 @@
+using System.Globalization;
 using VirtualIntegrator.Core.Lon;
 using VirtualIntegrator.Lon.OpenLdv;
 
@@ -48,7 +49,8 @@ internal static class LonCommands
         {
             throw new ArgumentException($"Address must be 'domain/subnet/node' (got '{s}').", nameof(s));
         }
-        return new LonAddress(byte.Parse(parts[0]), byte.Parse(parts[1]), byte.Parse(parts[2]));
+        var inv = CultureInfo.InvariantCulture;
+        return new LonAddress(byte.Parse(parts[0], inv), byte.Parse(parts[1], inv), byte.Parse(parts[2], inv));
     }
 
     private static async Task<int> WithChannelAsync(string device, Func<ILonChannel, Task<int>> body)
@@ -59,7 +61,7 @@ internal static class LonCommands
             return 2;
         }
 
-        ILonChannel? channel = null;
+        OpenLdvChannel? channel = null;
         try
         {
             channel = OpenLdvChannel.Open(device);
